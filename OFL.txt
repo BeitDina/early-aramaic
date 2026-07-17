@@ -1,3 +1,4 @@
+Copyright 2026 The BeitDina Team (https://github.com/beitdina/early-aramaic)
 Copyright 2022 The Noto Project Authors (https://github.com/notofonts/imperial-aramaic)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
