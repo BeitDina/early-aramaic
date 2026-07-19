@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="-10 0 1420 2048"
+   id="svg4"
+   sodipodi:docname="Hiram-Sacofagus_HET_Cardo.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.1788483"
+     inkscape:cx="1629.8729"
+     inkscape:cy="371.8235"
+     inkscape:window-width="1024"
+     inkscape:window-height="707"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     fill="currentColor"
+     d="M 1243.4609,1822.8042 1049.583,1819.8687 1053.5367,1638 c -111.61777,2.1862 -226.58744,4.8448 -337.67231,7.6538 -101.61121,2.5695 -199.97198,5.265 -289.54371,7.8404 -58.51338,9.2763 -51.72752,-15.6623 -51.38866,-62.7467 4.58422,-638.3859 -1.00812,-987.84206 -0.81607,-1420.41486 l 204.88451,-2.35832 0.70623,65.61701 c 194.62517,5.62668 406.60681,1.33642 573.25061,-0.21307 60.2197,-4.21642 70.6202,-3.06661 71.4514,51.71409 8.1516,536.91332 19.5898,995.24005 19.0522,1537.71185 z M 573.0619,1469.5913 1055,1464 v -449 l -481.9381,5.5913 z M 1055,840 l -3.9537,-441.95367 -477.9844,9.545 v 438 z"
+     id="path2"
+     sodipodi:nodetypes="cccscccccccccccccccccc" />
+</svg>
