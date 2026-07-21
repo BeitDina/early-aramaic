@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="-10 0 1690 2048"
+   id="svg4"
+   sodipodi:docname="Delta_Cardo.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.089424149"
+     inkscape:cx="2219.7583"
+     inkscape:cy="1805.9999"
+     inkscape:window-width="1024"
+     inkscape:window-height="707"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     fill="currentColor"
+     d="M 77.461452,1538.4433 768,228 h 154 l 670.9905,1228.0379 57.1785,166.2383 -1.0995,13.7058 c -129.884,7.4263 -143.8458,8.6488 -258.1639,11.4567 -1.297,-8.3591 -1.3523,0.4871 -1.3232,-4.8866 0.01,-1.712 0.027,-4.8675 0.016,-10.4826 L 124.42471,1638 c -119.2441085,7.8155 -96.869957,-4.8482 -46.963258,-99.5567 z M 287,1464 H 1372 L 833,428 Z"
+     id="path2"
+     sodipodi:nodetypes="cccccccsccccccc" />
+</svg>
