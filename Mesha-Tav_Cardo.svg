@@ -3,7 +3,7 @@
    version="1.1"
    viewBox="-10 0 1361 2048"
    id="svg4"
-   sodipodi:docname="Osokrom-Bust-Tav_Cardo.svg"
+   sodipodi:docname="Mesha-Tav_Cardo.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -37,7 +37,7 @@
      inkscape:current-layer="svg4" />
   <path
      fill="currentColor"
-     d="M 295.51119,434.34958 670.98716,808.06971 999.01912,429.63706 1215.0067,433.59073 756.58898,954.92361 1239.834,1503.5753 H 1037.6691 L 655.50654,1069.5107 273.34399,1503.5753 61.310057,1491.7143 559.81709,929.80522 95.119691,433.59073 Z"
+     d="m 220.3915,426.44225 450.59567,389.5348 272.6806,-386.33999 212.03393,-3.95367 -359.57604,497.61088 c 155.81011,122.26103 184.98177,161.97933 435.80104,350.96833 l -16.3425,229.3127 -544.26299,-422.2036 -299.13552,430.1109 -215.98761,3.9537 L 540.04875,973.29558 195.50139,663.35712 c 10.40199,-40.5271 17.07569,-148.50846 24.89011,-236.91487 z"
      id="path2"
      style="stroke-width:0.820284"
      sodipodi:nodetypes="ccccccccccccc" />
