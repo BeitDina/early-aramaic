@@ -1,6 +1,42 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1329 2048">
-   <path fill="currentColor"
-d="M69.001 1195l279.999 -5l107.886 -879.36l-294.886 1.36035l7 -193h764l-7 193l-305 2l-100 872l269 2l3 191l-716 -3z" />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="-10 0 1329 2048"
+   id="svg204"
+   sodipodi:docname="Zeta_Cardo-Early-Aramaic.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs208" />
+  <sodipodi:namedview
+     id="namedview206"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.1788483"
+     inkscape:cx="1014.8265"
+     inkscape:cy="684.93803"
+     inkscape:window-width="1024"
+     inkscape:window-height="707"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g202" />
+  <g
+     transform="matrix(1,0,0,-1,122.56371,1863.3591)"
+     id="g202">
+    <path
+       fill="currentColor"
+       d="M 456.886,1327.36 162,1325.9997 l 7,193 H 644.63128 C 599.69149,1161.5565 557.41562,770.12951 521,451.99965 l 269,-2 3,-191 c -157.56376,0.66018 -306.74052,4.11604 -464.30428,4.77622 54.19314,356.39201 89.2551,745.24043 128.19028,1063.58413 z"
+       id="path200"
+       sodipodi:nodetypes="ccccccccc" />
+  </g>
 </svg>
