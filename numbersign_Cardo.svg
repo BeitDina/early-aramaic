@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="-10 0 1200 2048"
+   id="svg6"
+   sodipodi:docname="numbersign_Cardo.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.12646484"
+     inkscape:cx="146.28571"
+     inkscape:cy="1031.9073"
+     inkscape:window-width="1024"
+     inkscape:window-height="707"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4" />
+  <g
+     transform="matrix(0.98480775,-0.17364818,-0.17364818,-0.98480775,139.58169,1729.7316)"
+     id="g4">
+    <path
+       fill="currentColor"
+       d="m 112.52287,971.55353 h 272 l 101,472.99997 h 127 l -101,-472.99997 h 252 l 101,472.99997 h 127 l -101,-472.99997 h 273.00003 l -29,-121 H 864.52287 l -72,-350 h 276.00003 l -28,-121 H 765.52287 l -106,-508 h -133 l 108,508 h -248 l -106,-508 h -133 l 108,508 H -14.477134 l 31,121 H 282.52287 l 76,350 H 79.522866 Z m 301,-471 h 248 l 74,350 h -250 z"
+       id="path2" />
+  </g>
+</svg>
