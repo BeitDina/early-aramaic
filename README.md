@@ -8,6 +8,20 @@ works and how to maintain it, see [the README file of the
 notofonts.github.io
 repository](https://github.com/notofonts/notofonts.github.io/blob/main/README.md)
 
+ScreenShots:
+
+![Sample](ScreenShouts/map_008_30072026_041311.jpg)
+	
+![Sample](ScreenShouts/map_009_30072026_041339.jpg)
+	
+![Sample](ScreenShouts/map_010_30072026_041504.jpg)
+	
+![Sample](ScreenShouts/map_034_05122021_150551.jpg)
+
+![Sample](ScreenShouts/map_012_30072026_084617.jpg)
+
+The fonts are encoded according to Unicode.org font subset maps.
+ 
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
