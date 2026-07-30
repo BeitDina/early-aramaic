@@ -12,13 +12,11 @@ ScreenShots:
 
 ![Sample](https://github.com/BeitDina/early-aramaic/blob/30f739f2feccf3da9153c19ae337b278a990b7a8/ScreeShots/map_008_30072026_041311.jpg)
 	
-![Sample](https://raw.githubusercontent.com/BeitDina/early-aramaic/refs/heads/main/ScreenShouts/map_009_30072026_041339.jpg)
+![Sample](https://github.com/BeitDina/early-aramaic/blob/47727259c0b515ba35088d4136de34300bf37133/ScreeShots/map_009_30072026_041339.jpg)
 	
-![Sample](https://raw.githubusercontent.com/BeitDina/early-aramaic/refs/heads/main/ScreenShouts/map_010_30072026_041504.jpg)
+![Sample](https://github.com/BeitDina/early-aramaic/blob/47727259c0b515ba35088d4136de34300bf37133/ScreeShots/map_010_30072026_041504.jpg)
 	
-![Sample](https://raw.githubusercontent.com/BeitDina/early-aramaic/refs/heads/main/ScreenShouts/map_034_05122021_150551.jpg)
-
-![Sample](https://raw.githubusercontent.com/BeitDina/early-aramaic/refs/heads/main/ScreenShouts/map_012_30072026_084617.jpg)
+![Sample](https://github.com/BeitDina/early-aramaic/blob/47727259c0b515ba35088d4136de34300bf37133/ScreeShots/map_012_30072026_084617.jpg)
 
 The fonts are encoded according to Unicode.org font subset maps.
  
