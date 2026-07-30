@@ -10,7 +10,7 @@ repository](https://github.com/notofonts/notofonts.github.io/blob/main/README.md
 
 ScreenShots:
 
-![Sample](https://raw.githubusercontent.com/BeitDina/early-aramaic/refs/heads/main/ScreeShots/map_008_30072026_041311.jpg.jpg)
+![Sample](https://github.com/BeitDina/early-aramaic/blob/30f739f2feccf3da9153c19ae337b278a990b7a8/ScreeShots/map_008_30072026_041311.jpg)
 	
 ![Sample](https://raw.githubusercontent.com/BeitDina/early-aramaic/refs/heads/main/ScreenShouts/map_009_30072026_041339.jpg)
 	
