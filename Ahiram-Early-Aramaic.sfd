@@ -1,9 +1,9 @@
 SplineFontDB: 3.2
-FontName: Hiram-Early-Aramaic
-FullName: Hiram-Early-Aramaic
-FamilyName: Hiram Early Aramaic
+FontName: Ahiram-Early-Aramaic
+FullName: Ahiram-Early-Aramaic
+FamilyName: Ahiram Early Aramaic
 Weight: Regular
-Copyright: Hiram Sacofagus Early Armaic Font (10 Century BCE) Created with FontForge 20230101 at Fri Jul 24 05:03:14 2026\nby Florin Ciprian Bodin aka orynider @ github.com/beitdina/early-aramaic original based on Cardo with SIL Open Font License, and some portions of font metrics are based on GNU-GPL version and MIT License of Keter Aram Tzova by Yoram Knat who used Hebrew OpenType Layout logic copyright (c) 2003 & 2007, Ralph Hancock & John Hudson. This layout logic for Biblical Hebrew is open source software under the MIT License; for details  contact copyright holders at <license@tiro.com>
+Copyright: Ahiram's Sarcofagus Early Armaic Font (975 BCE) Created with FontForge 20230101 at Fri Jul 24 05:03:14 2026\nby Florin Ciprian Bodin aka orynider @ github.com/beitdina/early-aramaic original based on Cardo with SIL Open Font License, and some portions of font metrics are based on GNU-GPL version and MIT License of Keter Aram Tzova by Yoram Knat who used Hebrew OpenType Layout logic copyright (c) 2003 & 2007, Ralph Hancock & John Hudson. This layout logic for Biblical Hebrew is open source software under the MIT License; for details  contact copyright holders at <license@tiro.com>
 Version: 0.9
 ItalicAngle: 0
 UnderlinePosition: -170
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1244295734
-ModificationTime: 1785982447
+ModificationTime: 1786001757
 PfmFamily: 17
 TTFWeight: 600
 TTFWidth: 5
@@ -4883,7 +4883,7 @@ SplineSet
  431.5 26.5 362.833007812 -105 323.5 -181 c 1
  323.5 -181 l 1
 EndSplineSet
-Validated: 37
+Validated: 1048613
 EndChar
 
 StartChar: qamatsqatan
@@ -5225,7 +5225,7 @@ SplineSet
  69 -111 l 1
  60 0 l 1
 EndSplineSet
-Validated: 1
+Validated: 1048577
 LCarets2: 1 57
 MultipleSubs2: "Add hairspace before narrowletter subtable subtable" hairspace zain
 MultipleSubs2: "Add hairspace before low marked Qof" zain hairspace
@@ -5336,6 +5336,7 @@ SplineSet
  1358.54785156 569.190429688 1451 494 1451 494 c 1
  1451 494 l 1
 EndSplineSet
+Validated: 8912933
 LCarets2: 1 88
 MultipleSubs2: "Add hairspace before low marked Qof" tet hairspace
 EndChar
@@ -5475,6 +5476,7 @@ SplineSet
  157 686 149.00390625 829.401367188 134.26171875 934.703125 c 0
  124.645507812 1003.38769531 119.944335938 1071.85742188 119.723632812 1135.46875 c 1
 EndSplineSet
+Validated: 9961505
 LCarets2: 1 67
 MultipleSubs2: "Add hairspace before low marked Qof" finalkaf hairspace
 EndChar
@@ -5521,6 +5523,7 @@ SplineSet
  197.23828125 784.653320312 170.422851562 845.545898438 168.295898438 906.71484375 c 1
  168.295898438 906.71484375 l 1
 EndSplineSet
+Validated: 524321
 LCarets2: 1 79
 MultipleSubs2: "Add hairspace before low marked Qof" kaf hairspace
 Substitution2: "'jalt' Wide Letter Alternatives in Hebrew subtable" kaf.wide
@@ -5583,6 +5586,7 @@ SplineSet
  303 32 l 1
  460 1372 l 1
 EndSplineSet
+Validated: 8388609
 LCarets2: 1 62
 MultipleSubs2: "Add hairspace before low marked Qof" lamed hairspace
 MultipleSubs2: "Add thispace after Lamed subtable" lamed thinspace
@@ -5646,6 +5650,7 @@ SplineSet
 307.359375 -390.108398438 m 1024
 370 -58 m 1025
 EndSplineSet
+Validated: 1572897
 LCarets2: 1 72
 MultipleSubs2: "Add hairspace before low marked Qof" finalmem hairspace
 Substitution2: "'jalt' Wide Letter Alternatives in Hebrew subtable" finalmem.wide
@@ -5694,6 +5699,7 @@ SplineSet
  561.161132812 342.9765625 539.540039062 345.770507812 521.327148438 352.256835938 c 1
  521.327148438 352.255859375 l 1
 EndSplineSet
+Validated: 524321
 LCarets2: 1 88
 MultipleSubs2: "Add hairspace before low marked Qof" mem hairspace
 EndChar
@@ -5887,6 +5893,7 @@ SplineSet
  723.53515625 332.923828125 691.090820312 262.204101562 655.873046875 194.0546875 c 0
  614.475585938 113.947265625 569.24609375 37.3916015625 522.529296875 -37.58984375 c 0
 EndSplineSet
+Validated: 524321
 LCarets2: 1 59
 MultipleSubs2: "Add hairspace before narrowletter subtable subtable" hairspace nun
 MultipleSubs2: "Add hairspace before low marked Qof" nun hairspace
@@ -6238,6 +6245,7 @@ SplineSet
  10.43359375 1104.71972656 l 1
  198 1104 l 1
 EndSplineSet
+Validated: 8912929
 LCarets2: 1 33
 MultipleSubs2: "Add hairspace before low marked Qof" pe hairspace
 EndChar
@@ -6688,6 +6696,7 @@ SplineSet
  182.8671875 1012.04980469 130.784179688 897.750976562 150.038085938 820.09375 c 0
 404.685546875 -13.8740234375 m 1025
 EndSplineSet
+Validated: 524321
 LCarets2: 1 79
 MultipleSubs2: "Add hairspace before low marked Qof" resh hairspace
 Substitution2: "'jalt' Wide Letter Alternatives in Hebrew subtable" resh.wide
@@ -6851,6 +6860,7 @@ SplineSet
  1067 563 l 1
  1061 391 l 1
 EndSplineSet
+Validated: 8388609
 LCarets2: 1 78
 MultipleSubs2: "Add hairspace before low marked Qof" tav hairspace
 Substitution2: "'jalt' Wide Letter Alternatives in Hebrew subtable" tav.wide
@@ -8212,7 +8222,7 @@ SplineSet
  722.404296875 803.235351562 l 1
 233 -69 m 1041
 EndSplineSet
-Validated: 33
+Validated: 1048609
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" alef.wide hairspace
 EndChar
@@ -9517,6 +9527,7 @@ LayerCount: 2
 Fore
 Refer: 69 1496 N 1 0 0 1 0 0 3
 Refer: 49 1468 S 0.897196 0 0 0.906542 649 50.5047 2
+Validated: 5
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" tetdagesh hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" tet dagesh
@@ -9636,6 +9647,7 @@ LayerCount: 2
 Fore
 Refer: 71 1498 N 1 0 0 1 0 0 3
 Refer: 49 1468 S 1 0 0 1 163 18 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" finalkhafdagesh hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" finalkaf dagesh
@@ -9694,6 +9706,7 @@ LayerCount: 2
 Fore
 Refer: 72 1499 N 1 0 0 1 0 0 3
 Refer: 49 1468 N 1 0 0 1 932 -81 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" khafdagesh hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" kaf dagesh
@@ -9752,6 +9765,7 @@ LayerCount: 2
 Fore
 Refer: 73 1500 N 1 0 0 1 -68 8 3
 Refer: 49 1468 N 1 0 0 1 423 410 2
+Validated: 5
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" lameddagesh hairspace
 MultipleSubs2: "Add thispace after Lamed subtable" lameddagesh thinspace
@@ -9811,6 +9825,7 @@ LayerCount: 2
 Fore
 Refer: 75 1502 N 1 0 0 1 0 0 3
 Refer: 49 1468 N 1 0 0 1 199 -10 2
+Validated: 5
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" memdagseh hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" mem dagesh
@@ -9870,6 +9885,7 @@ LayerCount: 2
 Fore
 Refer: 77 1504 N 1 0 0 1 0 0 3
 Refer: 49 1468 N 1 0 0 1 206.889 44 2
+Validated: 5
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before narrowletter subtable subtable" hairspace nundagesh
 MultipleSubs2: "Add hairspace before low marked Qof" nundagesh hairspace
@@ -10047,6 +10063,7 @@ LayerCount: 2
 Fore
 Refer: 81 1508 N 0.962741 0 0 1 4.19355 0 3
 Refer: 49 1468 N 0.850467 0 0 0.841121 328 77.4579 2
+Validated: 5
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" pedagesh hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" pe dagesh
@@ -10054,7 +10071,7 @@ EndChar
 
 StartChar: tsadidagesh
 Encoding: 64326 64326 144
-Width: 1072
+Width: 1132
 GlyphClass: 2
 Flags: HW
 HStem: -42 312<156.733 463.5> 356 214<40.4471 181.553>
@@ -10103,8 +10120,8 @@ AnchorPoint: "A-4" 440 0 basechar 0
 AnchorPoint: "A-1" 480 0 basechar 0
 LayerCount: 2
 Fore
-Refer: 83 1510 N 1 0 0 1 0 0 2
-Refer: 49 1468 N 1 0 0 1 591 43 2
+Refer: 83 1510 N 1 0 0 1 81 0 2
+Refer: 49 1468 N 0.773208 0 0 1 112.007 -59 2
 Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" tsadidagesh hairspace
@@ -10226,6 +10243,7 @@ LayerCount: 2
 Fore
 Refer: 85 1512 N 1 0 0 1 0 0 3
 Refer: 49 1468 N 1 0 0 1 788 375 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" reshdagesh hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" resh dagesh
@@ -10343,6 +10361,7 @@ LayerCount: 2
 Fore
 Refer: 87 1514 N 1 0 0 1 0 0 3
 Refer: 49 1468 N 1 0 0 1 607 0 2
+Validated: 5
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" tavdagesh hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" tav dagesh
@@ -10519,6 +10538,7 @@ LayerCount: 2
 Fore
 Refer: 72 1499 N 1 0 0 1 0 0 3
 Refer: 52 1471 N 1 0 0 1 457 114 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" khafrafe hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" kaf rafe
@@ -10577,6 +10597,7 @@ LayerCount: 2
 Fore
 Refer: 81 1508 N 1 0 0 1 0 0 3
 Refer: 52 1471 N 0.760465 0 0 1 627.5 348 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" perafe hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" pe rafe
@@ -10677,7 +10698,7 @@ AnchorPoint: "A-1" 445 150 basechar 0
 LayerCount: 2
 Fore
 Refer: 63 1490 N 1 0 0 1 0 0 3
-Refer: 52 1471 N 0.786047 0 0 0.798611 435 367.431 2
+Refer: 52 1471 N 0.786047 0 0 0.798611 435 395.431 2
 Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before narrowletter subtable subtable" hairspace gimelrafe
@@ -10867,54 +10888,55 @@ Encoding: 65541 -1 158
 Width: 1134
 GlyphClass: 2
 Flags: HW
-HStem: 160 214<119.447 260.553> 414 214<119.447 260.553> 802 253<91.147 320.63> 838 217<103.729 351.971>
-VStem: 104 172<172.531 361.469 426.531 615.469> 353 197<377.856 835.557> 496 149<-307.5 64.8815>
-AnchorPoint: "A-69" 230 0 basechar 0
-AnchorPoint: "A-68" 160 0 basechar 0
-AnchorPoint: "A-67" 40 0 basechar 0
-AnchorPoint: "A-66" 230 0 basechar 0
-AnchorPoint: "A-65" 160 0 basechar 0
-AnchorPoint: "A-64" 40 0 basechar 0
-AnchorPoint: "A-63" 230 0 basechar 0
-AnchorPoint: "A-62" 160 0 basechar 0
-AnchorPoint: "A-61" 40 0 basechar 0
-AnchorPoint: "A-59" 0 0 basechar 0
-AnchorPoint: "A-55" 800 0 basechar 0
-AnchorPoint: "A-42" 140 0 basechar 0
-AnchorPoint: "A-39" 490 0 basechar 0
-AnchorPoint: "A-36" 490 0 basechar 0
-AnchorPoint: "A-21" -430 0 basechar 0
-AnchorPoint: "A-16" 50 0 basechar 0
-AnchorPoint: "A-15" 170 0 basechar 0
-AnchorPoint: "A-14" 310 0 basechar 0
-AnchorPoint: "A-13" -120 0 basechar 0
-AnchorPoint: "A-12" 0 0 basechar 0
-AnchorPoint: "A-11" 140 0 basechar 0
-AnchorPoint: "A-10" 50 0 basechar 0
-AnchorPoint: "A-9" 170 0 basechar 0
-AnchorPoint: "A-8" 310 0 basechar 0
-AnchorPoint: "A-41" 480 0 basechar 0
-AnchorPoint: "A-40" 360 0 basechar 0
-AnchorPoint: "A-32" 490 0 basechar 0
-AnchorPoint: "A-31" 490 0 basechar 0
-AnchorPoint: "A-30" 490 0 basechar 0
-AnchorPoint: "A-29" 490 0 basechar 0
-AnchorPoint: "A-28" 485 0 basechar 0
-AnchorPoint: "A-27" 490 0 basechar 0
-AnchorPoint: "A-26" 800 0 basechar 0
-AnchorPoint: "A-25" 0 0 basechar 0
-AnchorPoint: "A-24" 490 0 basechar 0
-AnchorPoint: "A-23" 490 0 basechar 0
-AnchorPoint: "A-20" -80 0 basechar 0
-AnchorPoint: "A-7" 150 0 basechar 0
-AnchorPoint: "A-6" 230 0 basechar 0
-AnchorPoint: "A-5" 340 0 basechar 0
-AnchorPoint: "A-4" 360 0 basechar 0
-AnchorPoint: "A-1" 490 0 basechar 0
+HStem: 160 214<124.447 265.553> 414 214<124.447 265.553> 802 253<96.147 325.63> 838 217<108.729 356.971>
+VStem: 109 172<172.531 361.469 426.531 615.469> 358 197<377.856 835.557> 501 149<-307.5 64.8815>
+AnchorPoint: "A-69" 234 2 basechar 0
+AnchorPoint: "A-68" 164 2 basechar 0
+AnchorPoint: "A-67" 44 2 basechar 0
+AnchorPoint: "A-66" 234 2 basechar 0
+AnchorPoint: "A-65" 164 2 basechar 0
+AnchorPoint: "A-64" 44 2 basechar 0
+AnchorPoint: "A-63" 234 2 basechar 0
+AnchorPoint: "A-62" 164 2 basechar 0
+AnchorPoint: "A-61" 44 2 basechar 0
+AnchorPoint: "A-59" 4 2 basechar 0
+AnchorPoint: "A-55" 804 2 basechar 0
+AnchorPoint: "A-42" 144 2 basechar 0
+AnchorPoint: "A-39" 494 2 basechar 0
+AnchorPoint: "A-36" 494 2 basechar 0
+AnchorPoint: "A-21" -426 2 basechar 0
+AnchorPoint: "A-16" 54 2 basechar 0
+AnchorPoint: "A-15" 174 2 basechar 0
+AnchorPoint: "A-14" 314 2 basechar 0
+AnchorPoint: "A-13" -116 2 basechar 0
+AnchorPoint: "A-12" 4 2 basechar 0
+AnchorPoint: "A-11" 144 2 basechar 0
+AnchorPoint: "A-10" 54 2 basechar 0
+AnchorPoint: "A-9" 174 2 basechar 0
+AnchorPoint: "A-8" 314 2 basechar 0
+AnchorPoint: "A-41" 484 2 basechar 0
+AnchorPoint: "A-40" 364 2 basechar 0
+AnchorPoint: "A-32" 494 2 basechar 0
+AnchorPoint: "A-31" 494 2 basechar 0
+AnchorPoint: "A-30" 494 2 basechar 0
+AnchorPoint: "A-29" 494 2 basechar 0
+AnchorPoint: "A-28" 489 2 basechar 0
+AnchorPoint: "A-27" 494 2 basechar 0
+AnchorPoint: "A-26" 804 2 basechar 0
+AnchorPoint: "A-25" 4 2 basechar 0
+AnchorPoint: "A-24" 494 2 basechar 0
+AnchorPoint: "A-23" 494 2 basechar 0
+AnchorPoint: "A-20" -76 2 basechar 0
+AnchorPoint: "A-7" 154 2 basechar 0
+AnchorPoint: "A-6" 234 2 basechar 0
+AnchorPoint: "A-5" 344 2 basechar 0
+AnchorPoint: "A-4" 364 2 basechar 0
+AnchorPoint: "A-1" 494 2 basechar 0
 LayerCount: 2
 Fore
-Refer: 71 1498 N 1 0 0 1 0 0 3
-Refer: 37 1456 S 1 0 0 1 190 747 2
+Refer: 71 1498 N 1 0 0 1 7 17 3
+Refer: 37 1456 N 1 0 0 0.929862 188 691.937 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" finalkafsheva hairspace
 Ligature2: "'ccmp' FinalKaf Compositions subtable" finalkaf sheva
@@ -10973,6 +10995,7 @@ LayerCount: 2
 Fore
 Refer: 71 1498 N 1 0 0 1 0 0 3
 Refer: 45 1464 S 1 0 0 1 152 705 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" finalkafqamats hairspace
 Ligature2: "'ccmp' FinalKaf Compositions subtable" finalkaf qamats
@@ -11031,6 +11054,7 @@ LayerCount: 2
 Fore
 Refer: 73 1500 N 1 0 0 1 138 0 2
 Refer: 46 1465 N 1 0 0 1 36 4 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" lamedholam hairspace
 MultipleSubs2: "Add thispace after Lamed subtable" lamedholam thinspace
@@ -11088,9 +11112,10 @@ AnchorPoint: "A-4" 568 0 basechar 0
 AnchorPoint: "A-1" 618 420 basechar 0
 LayerCount: 2
 Fore
-Refer: 46 1465 N 1 0 0 1 36 4 2
+Refer: 46 1465 N 1 0 0 1 138 13 2
 Refer: 73 1500 N 1 0 0 1 138 0 2
-Refer: 49 1468 N 1 0 0 1 389 62 2
+Refer: 49 1468 N 1 0 0 1 308 65 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" lameddageshholam hairspace
 MultipleSubs2: "Add thispace after Lamed subtable" lameddageshholam thinspace
@@ -11150,6 +11175,7 @@ LayerCount: 2
 Fore
 Refer: 87 1514 N 1 0 0 1 0 0 3
 Refer: 52 1471 N 1 0 0 1.11475 594 50.2787 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" tavrafe hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" tav rafe
@@ -14137,7 +14163,7 @@ SplineSet
  368.55859375 268.666015625 369.688476562 451.239257812 363.224609375 608.30078125 c 1
  370.919921875 1254.546875 l 2
 EndSplineSet
-Validated: 33
+Validated: 1048609
 Kerns2: 230 -85 "'kern' Horizontal Kerning in Latin lookup 0-1" 232 -127 "'kern' Horizontal Kerning in Latin lookup 0-1" 233 -122 "'kern' Horizontal Kerning in Latin lookup 0-1" 234 -124 "'kern' Horizontal Kerning in Latin lookup 0-1" 236 -173 "'kern' Horizontal Kerning in Latin lookup 0-1" 238 -218 "'kern' Horizontal Kerning in Latin lookup 0-1" 239 -231 "'kern' Horizontal Kerning in Latin lookup 0-1" 242 -166 "'kern' Horizontal Kerning in Latin lookup 0-1" 244 -115 "'kern' Horizontal Kerning in Latin lookup 0-1" 246 -145 "'kern' Horizontal Kerning in Latin lookup 0-1" 248 -231 "'kern' Horizontal Kerning in Latin lookup 0-1" 249 -189 "'kern' Horizontal Kerning in Latin lookup 0-1" 250 -217 "'kern' Horizontal Kerning in Latin lookup 0-1" 253 -499 "'kern' Horizontal Kerning in Latin lookup 0-1" 178 -220 "'kern' Horizontal Kerning in Latin lookup 0-1" 231 -168 "'kern' Horizontal Kerning in Latin lookup 0-1" 235 -188 "'kern' Horizontal Kerning in Latin lookup 0-1" 237 -198 "'kern' Horizontal Kerning in Latin lookup 0-1" 240 -188 "'kern' Horizontal Kerning in Latin lookup 0-1" 241 -185 "'kern' Horizontal Kerning in Latin lookup 0-1" 243 -166 "'kern' Horizontal Kerning in Latin lookup 0-1" 245 -209 "'kern' Horizontal Kerning in Latin lookup 0-1" 247 -222 "'kern' Horizontal Kerning in Latin lookup 0-1" 251 -127 "'kern' Horizontal Kerning in Latin lookup 0-1" 252 -187 "'kern' Horizontal Kerning in Latin lookup 0-1" 254 -125 "'kern' Horizontal Kerning in Latin lookup 0-1" 255 -212 "'kern' Horizontal Kerning in Latin lookup 0-1" 179 -100 "'kern' Horizontal Kerning in Latin lookup 0-1" 177 -178 "'kern' Horizontal Kerning in Latin lookup 0-1" 191 -100 "'kern' Horizontal Kerning in Latin lookup 0-1" 192 -178 "'kern' Horizontal Kerning in Latin lookup 0-1"
 EndChar
 
