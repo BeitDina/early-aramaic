@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1244295734
-ModificationTime: 1786341223
+ModificationTime: 1786346218
 PfmFamily: 17
 TTFWeight: 600
 TTFWidth: 5
@@ -2317,7 +2317,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 100 20 9
+WinInfo: 140 20 9
 BeginPrivate: 1
 BlueValues 6 [0 20]
 EndPrivate
@@ -4883,7 +4883,7 @@ SplineSet
  431.5 26.5 362.833007812 -105 323.5 -181 c 5
  323.5 -181 l 5
 EndSplineSet
-Validated: 37
+Validated: 1048613
 EndChar
 
 StartChar: qamatsqatan
@@ -5039,6 +5039,7 @@ SplineSet
  644.184570312 972.022460938 614.731445312 1024.41113281 586.317382812 1069.29101562 c 5
  586.317382812 1069.29199219 l 5
 EndSplineSet
+Validated: 37
 LCarets2: 1 86
 MultipleSubs2: "Add hairspace before low marked Qof" bet hairspace
 EndChar
@@ -5073,6 +5074,7 @@ SplineSet
  542.671875 -226.190429688 530.504882812 -227.856445312 514.504882812 -228.5234375 c 0
  497.837890625 -229.190429688 496.098632812 -231.418945312 486.504882812 -226.5234375 c 0
 EndSplineSet
+Validated: 33
 LCarets2: 1 61
 MultipleSubs2: "Add hairspace before narrowletter subtable subtable" hairspace gimel
 MultipleSubs2: "Add hairspace before low marked Qof" gimel hairspace
@@ -5129,6 +5131,7 @@ SplineSet
 722 -66 m 1
  705 -66 l 1025
 EndSplineSet
+Validated: 35
 LCarets2: 1 58
 MultipleSubs2: "Add hairspace before low marked Qof" dalet hairspace
 Substitution2: "'jalt' Wide Letter Alternatives in Hebrew subtable" dalet.wide
@@ -5165,6 +5168,7 @@ SplineSet
  819 -101 l 1
  651 -117 l 1
 EndSplineSet
+Validated: 1
 LCarets2: 1 79
 MultipleSubs2: "Add hairspace before low marked Qof" he hairspace
 Substitution2: "'jalt' Wide Letter Alternatives in Hebrew subtable" he.wide
@@ -5199,6 +5203,7 @@ SplineSet
  494.737304688 149.434570312 494.334960938 412.439453125 501.854492188 553.71875 c 4
  505.67578125 625.514648438 510.56640625 683.224609375 508.291992188 764.178710938 c 5
 EndSplineSet
+Validated: 33
 LCarets2: 1 102
 MultipleSubs2: "Add hairspace before narrowletter subtable subtable" hairspace vav
 MultipleSubs2: "Add hairspace before low marked Qof" vav hairspace
@@ -5231,6 +5236,7 @@ SplineSet
  70 -107 l 1
  66 65 l 1
 EndSplineSet
+Validated: 1048577
 LCarets2: 1 57
 MultipleSubs2: "Add hairspace before narrowletter subtable subtable" hairspace zain
 MultipleSubs2: "Add hairspace before low marked Qof" zain hairspace
@@ -5280,6 +5286,7 @@ SplineSet
  276 718 l 1
  783 721 l 1
 EndSplineSet
+Validated: 37
 LCarets2: 1 77
 MultipleSubs2: "Add hairspace before low marked Qof" het hairspace
 EndChar
@@ -5348,6 +5355,7 @@ SplineSet
  673.247070312 961.07421875 567.588867188 1066.16113281 451.904296875 1191.48046875 c 1
  434.83984375 1175.00292969 l 1
 EndSplineSet
+Validated: 33
 LCarets2: 1 88
 MultipleSubs2: "Add hairspace before low marked Qof" tet hairspace
 EndChar
@@ -5436,6 +5444,7 @@ SplineSet
  207.814453125 323.373046875 209.567382812 327.3828125 209.561523438 338.725585938 c 1
  209.563476562 338.725585938 l 1
 EndSplineSet
+Validated: 33
 LCarets2: 1 52
 MultipleSubs2: "Add hairspace before narrowletter subtable subtable" hairspace yod
 MultipleSubs2: "Add hairspace before low marked Qof" yod hairspace
@@ -5484,6 +5493,7 @@ SplineSet
  355.495117188 591.134765625 306.640625 620.5234375 268.590820312 660.915039062 c 0
  238.953125 692.376953125 216.993408923 731.025094691 197.123046875 773.208007812 c 0
 EndSplineSet
+Validated: 1048613
 LCarets2: 1 88
 MultipleSubs2: "Add hairspace before low marked Qof" finalkaf hairspace
 EndChar
@@ -5515,6 +5525,7 @@ SplineSet
  1185 1404 l 1
  1348 1406 l 1
 EndSplineSet
+Validated: 1
 LCarets2: 1 39
 MultipleSubs2: "Add hairspace before low marked Qof" kaf hairspace
 Substitution2: "'jalt' Wide Letter Alternatives in Hebrew subtable" kaf.wide
@@ -5522,7 +5533,7 @@ EndChar
 
 StartChar: lamed
 Encoding: 1500 1500 73
-Width: 1784
+Width: 1199
 VWidth: 0
 GlyphClass: 2
 Flags: HW
@@ -5572,15 +5583,16 @@ AnchorPoint: "A-4" 170.339 -270.866 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-318 1387 m 1
- 432 1390 l 1
- 283 178 l 1
- 887 190 l 1
- 839 22 l 1
- 119 0 l 1
- 270 1387 l 1
- 318 1387 l 1
+483 1385 m 1
+ 597 1388 l 1
+ 448 176 l 1
+ 1052 188 l 1
+ 1004 20 l 1
+ 284 -2 l 1
+ 435 1385 l 1
+ 483 1385 l 1
 EndSplineSet
+Validated: 8388609
 LCarets2: 1 62
 MultipleSubs2: "Add hairspace before low marked Qof" lamed hairspace
 MultipleSubs2: "Add thispace after Lamed subtable" lamed thinspace
@@ -5589,36 +5601,37 @@ EndChar
 
 StartChar: finalmem
 Encoding: 1501 1501 74
-Width: 1169
+Width: 1213
 GlyphClass: 2
 Flags: HW
 HStem: 181.108 623.097<251.96 282.602>
 VStem: 294.849 48.1397<-730.008 45.4328>
-AnchorPoint: "A-59" 100.065 151.756 basechar 0
-AnchorPoint: "A-21" 31.4921 151.756 basechar 0
-AnchorPoint: "A-31" 100.065 151.756 basechar 0
-AnchorPoint: "A-25" 106.444 151.756 basechar 0
-AnchorPoint: "A-20" 93.6852 151.756 basechar 0
+AnchorPoint: "A-59" 194.065 143.756 basechar 0
+AnchorPoint: "A-21" 125.492 143.756 basechar 0
+AnchorPoint: "A-31" 194.065 143.756 basechar 0
+AnchorPoint: "A-25" 200.444 143.756 basechar 0
+AnchorPoint: "A-20" 187.685 143.756 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-135.581054688 274.877929688 m 2
- 534 706 l 1
- 146 1171 l 1
- 76.734375 1231.7265625 97.099609375 1225.32617188 176.83984375 1242.4296875 c 2
- 1059 1453 l 1
- 1095 1283 l 1
- 365 1127 l 1
- 772 723 l 1
- 353 303 l 1
- 1095 145 l 1
- 1059 -25 l 1
- 1050.69726562 -374.560546875 l 1
- 892.198242188 -367.763671875 l 1
- 903.084960938 8.259765625 l 1
- 142 199 l 1
- 52.9052734375 210.803710938 82.01953125 221.420898438 135.581054688 274.877929688 c 2
+229.581054688 266.877929688 m 2
+ 628 698 l 1
+ 240 1163 l 1
+ 170.734375 1223.7265625 191.647303816 1215.09476562 270.83984375 1234.4296875 c 2
+ 1035 1421 l 1
+ 1053 1271 l 1
+ 459 1119 l 1
+ 866 715 l 1
+ 447 295 l 1
+ 1045 147 l 1
+ 1009 -23 l 1
+ 1000.69726562 -372.560546875 l 1
+ 842.198242188 -365.763671875 l 1
+ 853.084960938 10.259765625 l 1
+ 236 191 l 1
+ 146.905273438 202.803710938 176.01953125 213.420898438 229.581054688 266.877929688 c 2
 EndSplineSet
+Validated: 1572897
 LCarets2: 1 72
 MultipleSubs2: "Add hairspace before low marked Qof" finalmem hairspace
 Substitution2: "'jalt' Wide Letter Alternatives in Hebrew subtable" finalmem.wide
@@ -5626,7 +5639,7 @@ EndChar
 
 StartChar: mem
 Encoding: 1502 1502 75
-Width: 913
+Width: 1021
 GlyphClass: 2
 Flags: HW
 HStem: 1049.43 75.4087<273.351 356.047>
@@ -5635,23 +5648,24 @@ AnchorPoint: "A-21" 29.0684 -43.4385 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-176.581054688 300.877929688 m 2
- 575 701 l 1
- 172.16015625 1249.5703125 l 1
- 102.89453125 1310.296875 112.614325084 1300.48300631 203 1321 c 2
- 855 1469 l 1
- 879 1317 l 1
- 411 1233 l 1
- 767 709 l 1
- 383 313 l 1
- 867.302734375 208.560546875 l 1
- 831.302734375 38.560546875 l 1
- 823 -311 l 1
- 664.500976562 -304.203125 l 1
- 675.387695312 71.8203125 l 1
- 183 225 l 1
- 93.9052734375 236.803710938 123.187614765 247.256248354 176.581054688 300.877929688 c 2
+212.278320312 295.317382812 m 2
+ 610.697265625 695.439453125 l 1
+ 207.857421875 1244.00976562 l 1
+ 138.591796875 1304.73632812 148.311523438 1294.92285156 238.697265625 1315.43945312 c 2
+ 890.697265625 1463.43945312 l 1
+ 914.697265625 1311.43945312 l 1
+ 446.697265625 1227.43945312 l 1
+ 802.697265625 703.439453125 l 1
+ 418.697265625 307.439453125 l 1
+ 903 203 l 1
+ 867 33 l 1
+ 859 -305 l 1
+ 700.500976562 -298.203125 l 1
+ 711.084960938 66.259765625 l 1
+ 218.697265625 219.439453125 l 1
+ 129.602539062 231.243164062 158.884765625 241.6953125 212.278320312 295.317382812 c 2
 EndSplineSet
+Validated: 524321
 LCarets2: 1 88
 MultipleSubs2: "Add hairspace before low marked Qof" mem hairspace
 EndChar
@@ -5843,6 +5857,7 @@ SplineSet
  419.5 3.5 350.833007812 -128 311.5 -204 c 1
  311.5 -204 l 1
 EndSplineSet
+Validated: 37
 LCarets2: 1 59
 MultipleSubs2: "Add hairspace before narrowletter subtable subtable" hairspace nun
 MultipleSubs2: "Add hairspace before low marked Qof" nun hairspace
@@ -5989,13 +6004,14 @@ SplineSet
  973.951171875 882.76171875 976.948242188 896.584960938 986.590820312 905.879882812 c 1
  986.590820312 905.879882812 l 1
 EndSplineSet
+Validated: 33
 LCarets2: 1 64
 MultipleSubs2: "Add hairspace before low marked Qof" samekh hairspace
 EndChar
 
 StartChar: ayin
 Encoding: 1506 1506 79
-Width: 1149
+Width: 1681
 GlyphClass: 2
 Flags: HW
 VStem: 271 41<1156.37 1194> 719 314<784.22 979.267>
@@ -6045,64 +6061,66 @@ AnchorPoint: "A-1" 506.1 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-624 6 m 2
- 606.666992188 10 581.833007812 19 549.5 33 c 0
- 517.166992188 47 482 66.6669921875 444 92 c 0
- 406 117.333007812 367.166992188 148.833007812 327.5 186.5 c 0
- 287.833007812 224.166992188 252 268.666992188 220 320 c 0
- 188 371.333007812 161.666992188 429.666992188 141 495 c 0
- 120.333007812 560.333007812 110 633.333007812 110 714 c 0
- 110 783.333007812 119.333007812 849.833007812 138 913.5 c 0
- 156.666992188 977.166992188 183 1036.33300781 217 1091 c 0
- 251 1145.66699219 292.333007812 1195.16699219 341 1239.5 c 0
- 389.666992188 1283.83300781 444 1321.83300781 504 1353.5 c 0
- 564 1385.16699219 629.166992188 1409.5 699.5 1426.5 c 0
- 769.833007812 1443.5 843.666992188 1452 921 1452 c 0
- 987.666992188 1452 1052.33300781 1443.5 1115 1426.5 c 0
- 1177.66699219 1409.5 1236.33300781 1385.66699219 1291 1355 c 0
- 1345.66699219 1324.33300781 1395.5 1287.16699219 1440.5 1243.5 c 0
- 1485.5 1199.83300781 1524.33300781 1151.33300781 1557 1098 c 0
- 1589.66699219 1044.66699219 1615 987.166992188 1633 925.5 c 0
- 1651 863.833007812 1660 799.666992188 1660 733 c 0
- 1660 670.333007812 1651.33300781 608 1634 546 c 0
- 1616.66699219 484 1591.66699219 424.833007812 1559 368.5 c 0
- 1526.33300781 312.166992188 1486.66699219 260 1440 212 c 0
- 1393.33300781 164 1340.83300781 122.166992188 1282.5 86.5 c 0
- 1224.16699219 50.8330078125 1160.66699219 23 1092 3 c 0
- 1023.33300781 -17 950.666992188 -27 874 -27 c 0
- 850 -27 827.666992188 -26 807 -24 c 0
- 786.333007812 -22 766.5 -19.5 747.5 -16.5 c 0
- 728.5 -13.5 710.166992188 -10.3330078125 692.5 -7 c 0
- 674.833007812 -3.6669921875 656.666992188 -0.3330078125 638 3 c 2
- 624 6 l 2
-320 752 m 0
- 320 696 326.166992188 639.666992188 338.5 583 c 0
- 350.833007812 526.333007812 368.666992188 472 392 420 c 0
- 415.333007812 368 444.333007812 319.166992188 479 273.5 c 0
- 513.666992188 227.833007812 553.166992188 188.333007812 597.5 155 c 0
- 641.833007812 121.666992188 691.166992188 95.3330078125 745.5 76 c 0
- 799.833007812 56.6669921875 858.333007812 47 921 47 c 0
- 1011 47 1089.16699219 64.8330078125 1155.5 100.5 c 0
- 1221.83300781 136.166992188 1276.66699219 183.666992188 1320 243 c 0
- 1363.33300781 302.333007812 1395.66699219 370.5 1417 447.5 c 0
- 1438.33300781 524.5 1449 604 1449 686 c 0
- 1449 776 1435.5 862.833007812 1408.5 946.5 c 0
- 1381.5 1030.16699219 1342.33300781 1104.33300781 1291 1169 c 0
- 1239.66699219 1233.66699219 1176.83300781 1285.5 1102.5 1324.5 c 0
- 1028.16699219 1363.5 943.666992188 1383 849 1383 c 0
- 792.333007812 1383 739.833007812 1374.66699219 691.5 1358 c 0
- 643.166992188 1341.33300781 599.333007812 1318.5 560 1289.5 c 0
- 520.666992188 1260.5 486 1226 456 1186 c 0
- 426 1146 401 1102.5 381 1055.5 c 0
- 361 1008.5 345.833007812 959.333007812 335.5 908 c 0
- 325.166992188 856.666992188 320 804.666992188 320 752 c 0
-1248 807.729492188 m 1
- 1236.13867188 653.537109375 l 1
- 1001.22558594 637.1328125 729.482421875 633.794921875 522 627.837890625 c 1
- 522 785.984375 l 1
- 807.934570312 788.12890625 1015.51074219 800.227539062 1248 807.729492188 c 1
+657.439453125 245.48046875 m 2
+ 641.493164062 249 618.646484375 256.919921875 588.899414062 269.240234375 c 0
+ 559.153320312 281.560546875 526.799804688 298.8671875 491.83984375 321.16015625 c 0
+ 456.879882812 343.453125 421.153320312 371.173828125 384.66015625 404.3203125 c 0
+ 348.166015625 437.467773438 324.100585938 453.5234375 292.759765625 497.400390625 c 0
+ 262.759765625 539.400390625 232.018554688 619.79296875 213.080078125 675.80078125 c 0
+ 193.68359375 733.165039062 184.559570312 797.533203125 184.559570312 868.520507812 c 0
+ 184.559570312 929.533203125 193.146484375 988.053710938 210.319335938 1044.08007812 c 0
+ 227.493164062 1100.10742188 251.719726562 1152.17382812 283 1200.28027344 c 0
+ 314.279296875 1248.38769531 352.305664062 1291.94726562 397.080078125 1330.95996094 c 0
+ 441.853515625 1369.97363281 491.83984375 1403.41308594 547.040039062 1431.28027344 c 0
+ 602.240234375 1459.14746094 662.193309825 1480.5607612 726.899414062 1495.52050781 c 0
+ 791.606445312 1510.48046875 831.973632812 1514.71972656 903.120117188 1514.71972656 c 0
+ 964.454101562 1514.71972656 1023.94628906 1507.24023438 1081.60058594 1492.28027344 c 0
+ 1139.25390625 1477.3203125 1193.2265625 1456.34667969 1243.52050781 1429.36035156 c 0
+ 1293.81347656 1402.37304688 1339.66015625 1369.66699219 1381.06054688 1331.24023438 c 0
+ 1422.45996094 1292.81347656 1458.18652344 1250.1328125 1488.24023438 1203.20019531 c 0
+ 1518.29394531 1156.26757812 1541.60058594 1105.66699219 1558.16015625 1051.40039062 c 0
+ 1574.71972656 997.1328125 1583 940.666992188 1583 882 c 0
+ 1583 826.853515625 1575.02636719 772 1559.08007812 717.440429688 c 0
+ 1543.13378906 662.879882812 1520.13378906 610.813476562 1490.08007812 561.240234375 c 0
+ 1460.02636719 511.666992188 1423.53417969 465.759765625 1380.60058594 423.520507812 c 0
+ 1337.66699219 381.280273438 1289.36621094 344.466796875 1235.70019531 313.080078125 c 0
+ 1182.03417969 281.693359375 1123.61425781 257.200195312 1060.44042969 239.600585938 c 0
+ 997.266601562 222 930.4140625 213.200195312 859.879882812 213.200195312 c 0
+ 837.799804688 213.200195312 817.25390625 214.080078125 798.240234375 215.83984375 c 0
+ 779.2265625 217.600585938 788.540161494 223.040849662 771.059570312 225.680664062 c 0
+ 753.580078125 228.3203125 736.713867188 231.107421875 720.459960938 234.040039062 c 0
+ 704.206054688 236.973632812 687.493164062 239.907226562 670.319335938 242.840820312 c 2
+ 657.439453125 245.48046875 l 2
+377.759765625 901.959960938 m 0
+ 377.759765625 852.680664062 383.43359375 803.107421875 394.779296875 753.240234375 c 0
+ 406.125976562 703.373046875 422.533203125 655.560546875 444 609.80078125 c 0
+ 465.465820312 564.040039062 492.146484375 521.067382812 524.040039062 480.880859375 c 0
+ 555.93359375 440.693359375 592.2734375 405.93359375 633.059570312 376.600585938 c 0
+ 673.845703125 347.267578125 719.233100563 324.092874818 769.219726562 307.080078125 c 0
+ 819.206054688 290.067382812 845.466796875 278.3203125 903.120117188 278.3203125 c 0
+ 985.919921875 278.3203125 1057.83398438 294.013671875 1118.86035156 325.400390625 c 0
+ 1179.88671875 356.787109375 1230.33398438 398.586914062 1270.20019531 450.799804688 c 0
+ 1310.06640625 503.013671875 1339.81347656 563 1359.44042969 630.759765625 c 0
+ 1379.06640625 698.520507812 1388.87988281 768.48046875 1388.87988281 840.640625 c 0
+ 1388.87988281 919.83984375 1376.45996094 996.252929688 1351.62011719 1069.87988281 c 0
+ 1326.78027344 1143.50683594 1290.74609375 1208.7734375 1243.52050781 1265.6796875 c 0
+ 1196.29394531 1322.58691406 1138.48632812 1368.20019531 1070.10058594 1402.52050781 c 0
+ 1001.71386719 1436.83984375 923.973632812 1454 836.879882812 1454 c 0
+ 784.74609375 1454 764.005955197 1449.90693606 719.540039062 1435.24023438 c 0
+ 675.073242188 1420.57324219 634.74609375 1400.48046875 598.559570312 1374.95996094 c 0
+ 562.373046875 1349.44042969 530.479492188 1319.08007812 502.879882812 1283.88085938 c 0
+ 475.279296875 1248.68066406 452.279296875 1210.40039062 433.879882812 1169.04003906 c 0
+ 415.479492188 1127.68066406 401.526367188 1084.41308594 392.01953125 1039.24023438 c 0
+ 382.513671875 994.067382812 377.759765625 948.307617188 377.759765625 901.959960938 c 0
+1203.95996094 947.76171875 m 1
+ 1193.04785156 812.073242188 l 1
+ 976.927734375 797.63671875 754.483398438 797.939453125 563.599609375 792.697265625 c 1
+ 563.599609375 931.866210938 l 1
+ 826.659179688 933.75390625 990.0703125 941.16015625 1203.95996094 947.76171875 c 1
+624 6 m 1026
 EndSplineSet
-LCarets2: 1 94
+Validated: 1
+LCarets2: 1 85
 Substitution2: "Automatic Alternate Ayin Subtable" ayin.alt
 MultipleSubs2: "Add hairspace before low marked Qof" ayin hairspace
 Substitution2: "'salt' Stylistic Alternatives in Hebrew subtable" ayin.alt
@@ -6649,7 +6667,7 @@ EndChar
 
 StartChar: resh
 Encoding: 1512 1512 85
-Width: 605
+Width: 1052
 GlyphClass: 2
 Flags: HW
 HStem: 804.636 7.76649G<394.212 403.328> 1094.58 105.772<302.75 369.879>
@@ -6702,38 +6720,31 @@ AnchorPoint: "A-1" 128.146 -13.874 basechar 0
 LayerCount: 2
 Fore
 SplineSet
--56.81640625 693.884765625 m 1
- -34.3564453125 836.041992188 -12.845703125 879.104492188 42.5556640625 1004.88671875 c 0
- 51.9814453125 1020.69238281 62.693359375 1034.05566406 74.611328125 1045.50878906 c 0
- 89.64453125 1059.95703125 106.599609375 1071.3671875 125.3203125 1080.81738281 c 0
- 200.557617188 1123.32128906 296.249023438 1123.80761719 371.271484375 1111.77050781 c 1
- 457.361328125 1080.34179688 549.313476562 1033.61230469 569.462890625 945.720703125 c 1
- 584.486328125 831.533203125 543.8203125 695.301757812 526.580078125 596.296875 c 0
- 504.764648438 470.221679688 487.022460938 382.022460938 469 293 c 0
- 459.463867188 247.446289062 439.27830973 168.518906991 424.709960938 127.697265625 c 0
- 414.368164062 98.71875 401.453125 71.1494140625 384.11328125 45.2939453125 c 0
- 372.268554688 27.8701171875 358.889648438 12.41015625 343.924804688 1.4853515625 c 1
- 299.181640625 -11.173828125 234.693359375 4.6494140625 228.178710938 20.38671875 c 1
- 244.7578125 61.412109375 267.918529675 101.451321276 282.22265625 141.245117188 c 0
- 296.475585938 180.896484375 318.197265625 254.216796875 327.298828125 294.111328125 c 0
- 349.336914062 390.321289062 367.1953125 480.270507812 388.543945312 596.81640625 c 1
- 316.673828125 609.143554688 142.068359375 612.541992188 16.6064453125 620.522460938 c 0
- -43.9375 624.374023438 -61.1826171875 661.864257812 -56.8173828125 693.885742188 c 1
- -56.81640625 693.884765625 l 1
-61.3046875 743.390625 m 1
- 175.6640625 742.466796875 262.967773438 719.38671875 413.16015625 722.262695312 c 1
- 415.446289062 738.983398438 425.859375 762.688476562 428.6328125 775.298828125 c 0
- 435.467773438 806.365234375 439.288085938 824.168945312 437.552734375 849.250976562 c 0
- 436.58203125 863.259765625 433.879882812 879.538085938 429.001953125 901.665039062 c 0
- 425.579101562 918.435546875 419.010742188 932.715820312 410.124023438 944.821289062 c 0
- 368.145507812 1001.99804688 274.4375 1010.64941406 216.182617188 1004.10546875 c 0
- 204.501953125 1003.36621094 191.11328125 999.620117188 182.306640625 996.548828125 c 0
- 171.07421875 992.419921875 161.853515625 985.779296875 153.884765625 977.958984375 c 0
- 147.047851562 971.249023438 141.131835938 963.669921875 135.655273438 956.0625 c 0
- 86.634765625 871.690429688 84.974609375 853.04296875 61.3046875 743.390625 c 1
- 61.3046875 743.390625 l 1
+228.409179688 587.168945312 m 1
+ 200.89453125 728.434570312 206.379882812 776.2578125 215.419921875 913.403320312 c 0
+ 218.87109375 931.479492188 224.3671875 947.700195312 231.6484375 962.5390625 c 0
+ 240.833984375 981.2578125 252.864257812 997.778320312 267.223632812 1013.06152344 c 0
+ 384.830078125 1139.265625 620.920898438 1160.41210938 707.064453125 1034.06347656 c 1
+ 760.236328125 931.900390625 792.337890625 793.930664062 810 695 c 0
+ 832.620117188 569.06640625 840.18359375 480.118164062 853.6953125 390.299804688 c 0
+ 864.962890625 333.995117188 879.185546875 264.208007812 876.056640625 197.353515625 c 1
+ 883.321289062 141.078125 850.758789062 69.564453125 806.590820312 65.98828125 c 1
+ 724.288085938 89.37109375 733.630859375 221.653320312 722.086914062 284.284179688 c 1
+ 704.91796875 447.905273438 697.390625 533.408203125 680.110351562 648.275390625 c 1
+ 608.358398438 635.278320312 443.120117188 578.752929688 322.495117188 543.341796875 c 0
+ 264.28515625 526.25390625 235.2578125 555.584960938 228.408203125 587.168945312 c 1
+ 228.409179688 587.168945312 l 1
+660.336914062 774.577148438 m 1
+ 656.665039062 812.732421875 646.330078125 850.609375 632.259765625 885.9453125 c 0
+ 618.663085938 933.436523438 600.88671875 988.336914062 568.420898438 1005.72265625 c 1
+ 514.557617188 1017.82226562 434.870117188 1008.54101562 380.247070312 976.708007812 c 0
+ 351.46484375 960.822265625 331.860351562 956.793945312 322.979492188 930.048828125 c 0
+ 312.666015625 898.986328125 315.438476562 844.177734375 313.426757812 812.931640625 c 0
+ 309.9453125 756.087890625 312.887695312 697.616210938 326.89453125 656.677734375 c 1
+ 455.609375 695.685546875 573.350585938 741.317382812 660.336914062 774.577148438 c 1
 404.685546875 -13.8740234375 m 1025
 EndSplineSet
+Validated: 524321
 LCarets2: 1 79
 MultipleSubs2: "Add hairspace before low marked Qof" resh hairspace
 Substitution2: "'jalt' Wide Letter Alternatives in Hebrew subtable" resh.wide
@@ -6826,6 +6837,7 @@ SplineSet
  1017.80957031 260.704101562 l 1
  1017.80859375 260.704101562 l 1
 EndSplineSet
+Validated: 37
 LCarets2: 1 114
 MultipleSubs2: "Add hairspace before low marked Qof" shin hairspace
 EndChar
@@ -6926,6 +6938,7 @@ SplineSet
  848.2734375 1090.66308594 845.26953125 1251.51367188 849.107421875 1422.02246094 c 1
  825.385742188 1422.0234375 l 1
 EndSplineSet
+Validated: 33
 LCarets2: 1 78
 MultipleSubs2: "Add hairspace before low marked Qof" tav hairspace
 Substitution2: "'jalt' Wide Letter Alternatives in Hebrew subtable" tav.wide
@@ -6983,6 +6996,7 @@ LayerCount: 2
 Fore
 Refer: 66 1493 N 0.971422 0 0 1 -158.639 17 2
 Refer: 66 1493 N 0.964424 0 0 1 841.639 27 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" vavvav hairspace
 EndChar
@@ -7037,7 +7051,7 @@ AnchorPoint: "A-4" 576 0 basechar 0
 AnchorPoint: "A-1" 526 0 basechar 0
 LayerCount: 2
 Fore
-Refer: 66 1493 S 1 0 0 1 304 20 2
+Refer: 66 1493 N 1 0 0 1 348 20 2
 Refer: 70 1497 N 1 0 0 1 -52 4 2
 MultipleSubs2: "Add hairspace before low marked Qof" vavyod hairspace
 EndChar
@@ -7094,6 +7108,7 @@ LayerCount: 2
 Fore
 Refer: 70 1497 N 1 0 0 1 -19 0 2
 Refer: 70 1497 N 1 0 0 1 553 9 2
+Validated: 1
 MultipleSubs2: "Add hairspace before low marked Qof" yodyod hairspace
 EndChar
 
@@ -7169,6 +7184,7 @@ LayerCount: 2
 Fore
 Refer: 91 1523 N 1 0 0 1 -33 0 2
 Refer: 91 1523 N 1 0 0 1 438 -2 2
+Validated: 1
 EndChar
 
 StartChar: thinspace
@@ -8018,6 +8034,7 @@ LayerCount: 2
 Fore
 Refer: 70 1497 N 1 0 0 1 0 0 3
 Refer: 41 1460 N 1 0 0 1 418 -3 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" yodhiriq hairspace
 EndChar
@@ -8105,6 +8122,7 @@ Fore
 Refer: 44 1463 N 1.87629 0 0 0.902778 676 278 2
 Refer: 70 1497 N 1 0 0 0.986116 533 14.7041 2
 Refer: 70 1497 N 1 0 0 0.983312 -34 27.4709 2
+Validated: 1
 MultipleSubs2: "Add hairspace before low marked Qof" yodyodpatah hairspace
 EndChar
 
@@ -8281,7 +8299,7 @@ SplineSet
  722.404296875 803.235351562 l 1
 233 -69 m 1041
 EndSplineSet
-Validated: 33
+Validated: 1048609
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" alef.wide hairspace
 EndChar
@@ -8352,6 +8370,7 @@ SplineSet
  209 47 l 1
  1106 29.478515625 l 1
 EndSplineSet
+Validated: 1
 LCarets2: 1 -82
 MultipleSubs2: "Add hairspace before low marked Qof" dalet.wide hairspace
 EndChar
@@ -8897,6 +8916,7 @@ LayerCount: 2
 Fore
 Refer: 86 1513 N 1 0 0 1 0 0 3
 Refer: 54 1473 N 1 0 0 1 1213 -24 2
+Validated: 5
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" shinshindot hairspace
 Ligature2: "'ccmp' Shin composed with shin or sin dot subtable" shin shindot
@@ -8955,6 +8975,7 @@ LayerCount: 2
 Fore
 Refer: 86 1513 N 1 0 0 1 0 0 3
 Refer: 55 1474 N 1 0 0 1 229 3 2
+Validated: 5
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" shinsindot hairspace
 Ligature2: "'ccmp' Shin composed with shin or sin dot subtable" shin sindot
@@ -9014,6 +9035,7 @@ Fore
 Refer: 54 1473 N 1 0 0 1 1213 -24 2
 Refer: 49 1468 N 0.813084 0 0 0.808411 779 125.935 2
 Refer: 86 1513 N 1 0 0 1 0 0 3
+Validated: 5
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" shindageshshindot hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" shinshindot dagesh
@@ -9074,6 +9096,7 @@ Fore
 Refer: 55 1474 N 1 0 0 1 229 3 2
 Refer: 49 1468 N 0.813084 0 0 0.808411 779 125.935 2
 Refer: 86 1513 N 1 0 0 1 0 0 3
+Validated: 5
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" shindageshsindot hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" shinsindot dagesh
@@ -9220,6 +9243,7 @@ LayerCount: 2
 Fore
 Refer: 62 1489 N 1 0 0 1 0 0 3
 Refer: 49 1468 N 1 0 0 1 422 0 2
+Validated: 5
 MultipleSubs2: "Add hairspace before low marked Qof" betdagesh hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" bet dagesh
 EndChar
@@ -9278,6 +9302,7 @@ LayerCount: 2
 Fore
 Refer: 63 1490 N 1 0 0 1 0 0 3
 Refer: 49 1468 N 1 0 0 1 149 36 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before narrowletter subtable subtable" hairspace gimeldagesh
 MultipleSubs2: "Add hairspace before low marked Qof" gimeldagesh hairspace
@@ -9340,6 +9365,7 @@ LayerCount: 2
 Fore
 Refer: 64 1491 N 1 0 0 1 0 0 3
 Refer: 49 1468 N 0.657971 0 0 1 588.288 -16 2
+Validated: 5
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" daleddagesh hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" dalet dagesh
@@ -9397,7 +9423,7 @@ AnchorPoint: "A-1" 590 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 65 1492 N 1 0 0 1 0 0 2
-Refer: 49 1468 N 1.01401 0 0 0.936359 124.389 -80.9389 2
+Refer: 49 1468 N 1.01401 0 0 0.936359 85.389 -122.939 2
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" hedagesh hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" he dagesh
@@ -9456,6 +9482,7 @@ LayerCount: 2
 Fore
 Refer: 66 1493 N 1 0 0 1 0 0 2
 Refer: 49 1468 S 1 0 0 1 185 -12 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before narrowletter subtable subtable" hairspace vavdagesh
 MultipleSubs2: "Add hairspace before low marked Qof" vavdagesh hairspace
@@ -9516,6 +9543,7 @@ LayerCount: 2
 Fore
 Refer: 67 1494 N 1 0 0 1 51 0 2
 Refer: 49 1468 S 1 0 0 1 136 33 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before narrowletter subtable subtable" hairspace zaindagesh
 MultipleSubs2: "Add hairspace before low marked Qof" zaindagesh hairspace
@@ -9575,6 +9603,7 @@ LayerCount: 2
 Fore
 Refer: 69 1496 N 1 0 0 1 0 0 3
 Refer: 49 1468 S 0.897196 0 0 0.906542 649 50.5047 2
+Validated: 5
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" tetdagesh hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" tet dagesh
@@ -9633,7 +9662,7 @@ AnchorPoint: "A-1" 372 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 70 1497 N 1 0 0 1 102 0 2
-Refer: 49 1468 N 0.913811 0 0 1 181.402 56 2
+Refer: 49 1468 N 0.913811 0 0 1 169.402 -13 2
 LCarets2: 1 55
 MultipleSubs2: "Add hairspace before narrowletter subtable subtable" hairspace yoddagesh
 MultipleSubs2: "Add hairspace before low marked Qof" yoddagesh hairspace
@@ -9693,6 +9722,7 @@ LayerCount: 2
 Fore
 Refer: 71 1498 N 1 0 0 1 0 0 3
 Refer: 49 1468 S 1 0 0 1 184 18 2
+Validated: 5
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" finalkhafdagesh hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" finalkaf dagesh
@@ -9750,7 +9780,7 @@ AnchorPoint: "A-1" 490 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 72 1499 N 1 0 0 1 0 0 3
-Refer: 49 1468 N 1 0 0 1 932 -81 2
+Refer: 49 1468 N 1 0 0 1 404 6 2
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" khafdagesh hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" kaf dagesh
@@ -9758,7 +9788,7 @@ EndChar
 
 StartChar: lameddagesh
 Encoding: 64316 64316 138
-Width: 1784
+Width: 1199
 GlyphClass: 2
 Flags: HW
 HStem: 458 214<220.447 361.553> 792 255<313.765 517.688>
@@ -9808,7 +9838,7 @@ AnchorPoint: "A-1" 480 420 basechar 0
 LayerCount: 2
 Fore
 Refer: 73 1500 N 1 0 0 1 -68 8 3
-Refer: 49 1468 N 0.910739 0 0 1 537.035 407 2
+Refer: 49 1468 N 0.910739 0 0 1 633.035 401 2
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" lameddagesh hairspace
 MultipleSubs2: "Add thispace after Lamed subtable" lameddagesh thinspace
@@ -9817,7 +9847,7 @@ EndChar
 
 StartChar: memdagseh
 Encoding: 64318 64318 139
-Width: 913
+Width: 1021
 GlyphClass: 2
 Flags: HW
 HStem: -30 297<348.211 621.428> 414 214<527.447 668.553>
@@ -9868,6 +9898,7 @@ LayerCount: 2
 Fore
 Refer: 75 1502 N 1 0 0 1 0 0 3
 Refer: 49 1468 N 1 0 0 1 199 -10 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" memdagseh hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" mem dagesh
@@ -9927,6 +9958,7 @@ LayerCount: 2
 Fore
 Refer: 77 1504 N 1 0 0 1 0 0 3
 Refer: 49 1468 N 1 0 0 1 206.889 44 2
+Validated: 5
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before narrowletter subtable subtable" hairspace nundagesh
 MultipleSubs2: "Add hairspace before low marked Qof" nundagesh hairspace
@@ -9985,7 +10017,8 @@ AnchorPoint: "A-1" 570 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 78 1505 N 1 0 0 1 0 0 3
-Refer: 49 1468 N 1 0 0 1 527 30 2
+Refer: 49 1468 N 1 0 0 1 587 30 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" samekhdagesh hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" samekh dagesh
@@ -10229,7 +10262,7 @@ EndChar
 
 StartChar: reshdagesh
 Encoding: 64328 64328 146
-Width: 605
+Width: 1052
 GlyphClass: 2
 Flags: HW
 HStem: 0 21<989 1031.5> 412 214<609.447 750.553> 784 286<562.604 875.561>
@@ -10283,6 +10316,7 @@ LayerCount: 2
 Fore
 Refer: 85 1512 N 1 0 0 1 0 0 3
 Refer: 49 1468 N 1 0 0 1 788 375 2
+Validated: 5
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" reshdagesh hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" resh dagesh
@@ -10341,6 +10375,7 @@ LayerCount: 2
 Fore
 Refer: 86 1513 N 1 0 0 1 0 0 3
 Refer: 49 1468 N 0.813084 0 0 0.808411 779 125.935 2
+Validated: 5
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" shindagesh hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" shin dagesh
@@ -10399,6 +10434,7 @@ LayerCount: 2
 Fore
 Refer: 87 1514 N 1 0 0 1 0 0 3
 Refer: 49 1468 N 1 0 0 1 334 -27 2
+Validated: 5
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" tavdagesh hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" tav dagesh
@@ -10457,6 +10493,7 @@ LayerCount: 2
 Fore
 Refer: 66 1493 N 1 0 0 1 0 0 3
 Refer: 46 1465 N 1 0 0 1 213 66 2
+Validated: 5
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" vavholam hairspace
 Ligature2: "'ccmp' Vav Holam Compositions" vav holam
@@ -10515,6 +10552,7 @@ LayerCount: 2
 Fore
 Refer: 62 1489 N 1 0 0 1 0 0 3
 Refer: 52 1471 N 1 0 0 1 452 132 2
+Validated: 5
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" betrafe hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" bet rafe
@@ -10571,8 +10609,9 @@ AnchorPoint: "A-4" 460 0 basechar 0
 AnchorPoint: "A-1" 490 150 basechar 0
 LayerCount: 2
 Fore
-Refer: 72 1499 N 1 0 0 1 0 0 3
-Refer: 52 1471 N 1 0 0 1 457 114 2
+Refer: 72 1499 N 1 0 0 1 -6 -39 3
+Refer: 52 1471 S 1 0 0 1 451 249 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" khafrafe hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" kaf rafe
@@ -10733,6 +10772,7 @@ LayerCount: 2
 Fore
 Refer: 63 1490 N 1 0 0 1 0 0 3
 Refer: 52 1471 N 0.786047 0 0 0.798611 435 367.431 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before narrowletter subtable subtable" hairspace gimelrafe
 MultipleSubs2: "Add hairspace before low marked Qof" gimelrafe hairspace
@@ -10792,6 +10832,7 @@ LayerCount: 2
 Fore
 Refer: 64 1491 N 1 0 0 1 0 0 3
 Refer: 52 1471 S 1 0 0 1 678 274 2
+Validated: 5
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" daletrafe hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" dalet rafe
@@ -10850,6 +10891,7 @@ LayerCount: 2
 Fore
 Refer: 65 1492 N 1 0 0 1 0 0 2
 Refer: 52 1471 N 1 0 0 1 486 114 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" herafe hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" he rafe
@@ -10908,6 +10950,7 @@ LayerCount: 2
 Fore
 Refer: 66 1493 N 1 0 0 1 0 0 3
 Refer: 46 1465 N 1 0 0 1 191 -14 2
+Validated: 5
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" vavholamhaser hairspace
 Ligature2: "'ccmp' Vav Holam Compositions" vav holamhaser
@@ -10964,7 +11007,7 @@ AnchorPoint: "A-4" 360 0 basechar 0
 AnchorPoint: "A-1" 490 0 basechar 0
 LayerCount: 2
 Fore
-Refer: 71 1498 N 1 0 0 1 0 0 3
+Refer: 71 1498 N 1 0 0 1 21 0 3
 Refer: 37 1456 N 1 0 0 1 211 747 2
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" finalkafsheva hairspace
@@ -11023,7 +11066,7 @@ AnchorPoint: "A-1" 490 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 71 1498 N 1 0 0 1 0 0 3
-Refer: 45 1464 S 1 0 0 1 173 705 2
+Refer: 45 1464 N 1 0 0 1 223 -10 2
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" finalkafqamats hairspace
 Ligature2: "'ccmp' FinalKaf Compositions subtable" finalkaf qamats
@@ -11082,6 +11125,7 @@ LayerCount: 2
 Fore
 Refer: 73 1500 N 1 0 0 1 138 0 2
 Refer: 46 1465 N 1 0 0 1 36 4 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" lamedholam hairspace
 MultipleSubs2: "Add thispace after Lamed subtable" lamedholam thinspace
@@ -11090,7 +11134,7 @@ EndChar
 
 StartChar: lameddageshholam
 Encoding: 65544 -1 161
-Width: 996
+Width: 1278
 GlyphClass: 2
 Flags: HW
 HStem: 474 214<318.447 459.553> 792 255<451.765 655.688> 1176 214<-34.5529 106.553>
@@ -11139,9 +11183,9 @@ AnchorPoint: "A-4" 568 0 basechar 0
 AnchorPoint: "A-1" 618 420 basechar 0
 LayerCount: 2
 Fore
-Refer: 46 1465 N 1 0 0 1 36 4 2
+Refer: 46 1465 N 1 0 0 1 99 7 2
 Refer: 73 1500 N 1 0 0 1 138 0 2
-Refer: 49 1468 N 1 0 0 1 389 62 2
+Refer: 49 1468 N 1 0 0 1 305 56 2
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" lameddageshholam hairspace
 MultipleSubs2: "Add thispace after Lamed subtable" lameddageshholam thinspace
@@ -11200,7 +11244,7 @@ AnchorPoint: "A-1" 686 150 basechar 0
 LayerCount: 2
 Fore
 Refer: 87 1514 N 1 0 0 1 0 0 3
-Refer: 52 1471 N 1 0 0 1.11475 594 50.2787 2
+Refer: 52 1471 N 1 0 0 1.11475 578 330.279 2
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" tavrafe hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" tav rafe
@@ -13489,6 +13533,7 @@ SplineSet
  450.591796875 1111.92382812 396.87890625 973.258789062 396.87890625 783.9609375 c 0
 933.88671875 47.083984375 m 1025
 EndSplineSet
+Validated: 1
 Kerns2: 231 -227 "'kern' Horizontal Kerning in Latin lookup 0-1" 237 -204 "'kern' Horizontal Kerning in Latin lookup 0-1" 238 -139 "'kern' Horizontal Kerning in Latin lookup 0-1" 239 -121 "'kern' Horizontal Kerning in Latin lookup 0-1" 240 -140 "'kern' Horizontal Kerning in Latin lookup 0-1" 241 -244 "'kern' Horizontal Kerning in Latin lookup 0-1" 253 -392 "'kern' Horizontal Kerning in Latin lookup 0-1" 179 -242 "'kern' Horizontal Kerning in Latin lookup 0-1" 177 -260 "'kern' Horizontal Kerning in Latin lookup 0-1" 178 -137 "'kern' Horizontal Kerning in Latin lookup 0-1" 230 -230 "'kern' Horizontal Kerning in Latin lookup 0-1" 232 -169 "'kern' Horizontal Kerning in Latin lookup 0-1" 233 -183 "'kern' Horizontal Kerning in Latin lookup 0-1" 234 -173 "'kern' Horizontal Kerning in Latin lookup 0-1" 236 -183 "'kern' Horizontal Kerning in Latin lookup 0-1" 242 -83 "'kern' Horizontal Kerning in Latin lookup 0-1" 243 -83 "'kern' Horizontal Kerning in Latin lookup 0-1" 244 -168 "'kern' Horizontal Kerning in Latin lookup 0-1" 245 -100 "'kern' Horizontal Kerning in Latin lookup 0-1" 246 -157 "'kern' Horizontal Kerning in Latin lookup 0-1" 247 -110 "'kern' Horizontal Kerning in Latin lookup 0-1" 248 -125 "'kern' Horizontal Kerning in Latin lookup 0-1" 250 -110 "'kern' Horizontal Kerning in Latin lookup 0-1" 251 -132 "'kern' Horizontal Kerning in Latin lookup 0-1" 252 -126 "'kern' Horizontal Kerning in Latin lookup 0-1" 254 -130 "'kern' Horizontal Kerning in Latin lookup 0-1" 255 -109 "'kern' Horizontal Kerning in Latin lookup 0-1" 191 -119 "'kern' Horizontal Kerning in Latin lookup 0-1" 192 -117 "'kern' Horizontal Kerning in Latin lookup 0-1"
 EndChar
 
@@ -14187,7 +14232,7 @@ SplineSet
  368.55859375 268.666015625 369.688476562 451.239257812 363.224609375 608.30078125 c 1
  370.919921875 1254.546875 l 2
 EndSplineSet
-Validated: 33
+Validated: 1048609
 Kerns2: 230 -85 "'kern' Horizontal Kerning in Latin lookup 0-1" 232 -127 "'kern' Horizontal Kerning in Latin lookup 0-1" 233 -122 "'kern' Horizontal Kerning in Latin lookup 0-1" 234 -124 "'kern' Horizontal Kerning in Latin lookup 0-1" 236 -173 "'kern' Horizontal Kerning in Latin lookup 0-1" 238 -218 "'kern' Horizontal Kerning in Latin lookup 0-1" 239 -231 "'kern' Horizontal Kerning in Latin lookup 0-1" 242 -166 "'kern' Horizontal Kerning in Latin lookup 0-1" 244 -115 "'kern' Horizontal Kerning in Latin lookup 0-1" 246 -145 "'kern' Horizontal Kerning in Latin lookup 0-1" 248 -231 "'kern' Horizontal Kerning in Latin lookup 0-1" 249 -189 "'kern' Horizontal Kerning in Latin lookup 0-1" 250 -217 "'kern' Horizontal Kerning in Latin lookup 0-1" 253 -499 "'kern' Horizontal Kerning in Latin lookup 0-1" 178 -220 "'kern' Horizontal Kerning in Latin lookup 0-1" 231 -168 "'kern' Horizontal Kerning in Latin lookup 0-1" 235 -188 "'kern' Horizontal Kerning in Latin lookup 0-1" 237 -198 "'kern' Horizontal Kerning in Latin lookup 0-1" 240 -188 "'kern' Horizontal Kerning in Latin lookup 0-1" 241 -185 "'kern' Horizontal Kerning in Latin lookup 0-1" 243 -166 "'kern' Horizontal Kerning in Latin lookup 0-1" 245 -209 "'kern' Horizontal Kerning in Latin lookup 0-1" 247 -222 "'kern' Horizontal Kerning in Latin lookup 0-1" 251 -127 "'kern' Horizontal Kerning in Latin lookup 0-1" 252 -187 "'kern' Horizontal Kerning in Latin lookup 0-1" 254 -125 "'kern' Horizontal Kerning in Latin lookup 0-1" 255 -212 "'kern' Horizontal Kerning in Latin lookup 0-1" 179 -100 "'kern' Horizontal Kerning in Latin lookup 0-1" 177 -178 "'kern' Horizontal Kerning in Latin lookup 0-1" 191 -100 "'kern' Horizontal Kerning in Latin lookup 0-1" 192 -178 "'kern' Horizontal Kerning in Latin lookup 0-1"
 EndChar
 
@@ -14571,6 +14616,7 @@ SplineSet
  337.666992188 323.833007812 333.666992188 314.833007812 331 304.5 c 0
  328.333007812 294.166992188 321 260 321 244 c 0
 EndSplineSet
+Validated: 33
 Kerns2: 231 -232 "'kern' Horizontal Kerning in Latin lookup 0-1" 235 -334 "'kern' Horizontal Kerning in Latin lookup 0-1" 237 -236 "'kern' Horizontal Kerning in Latin lookup 0-1" 239 -315 "'kern' Horizontal Kerning in Latin lookup 0-1" 240 -246 "'kern' Horizontal Kerning in Latin lookup 0-1" 241 -219 "'kern' Horizontal Kerning in Latin lookup 0-1" 242 -199 "'kern' Horizontal Kerning in Latin lookup 0-1" 245 -257 "'kern' Horizontal Kerning in Latin lookup 0-1" 247 -219 "'kern' Horizontal Kerning in Latin lookup 0-1" 251 -218 "'kern' Horizontal Kerning in Latin lookup 0-1" 252 -224 "'kern' Horizontal Kerning in Latin lookup 0-1" 253 -133 "'kern' Horizontal Kerning in Latin lookup 0-1" 254 -216 "'kern' Horizontal Kerning in Latin lookup 0-1" 178 -248 "'kern' Horizontal Kerning in Latin lookup 0-1" 232 -82 "'kern' Horizontal Kerning in Latin lookup 0-1" 236 -142 "'kern' Horizontal Kerning in Latin lookup 0-1" 238 -167 "'kern' Horizontal Kerning in Latin lookup 0-1" 243 -199 "'kern' Horizontal Kerning in Latin lookup 0-1" 246 -100 "'kern' Horizontal Kerning in Latin lookup 0-1" 248 -314 "'kern' Horizontal Kerning in Latin lookup 0-1" 249 -256 "'kern' Horizontal Kerning in Latin lookup 0-1" 250 -212 "'kern' Horizontal Kerning in Latin lookup 0-1" 255 -169 "'kern' Horizontal Kerning in Latin lookup 0-1" 177 -132 "'kern' Horizontal Kerning in Latin lookup 0-1" 192 -132 "'kern' Horizontal Kerning in Latin lookup 0-1"
 EndChar
 
@@ -16345,6 +16391,7 @@ SplineSet
  335.833007812 922.333007812 343.833007812 929 358.5 929 c 2
  730.5 929 l 2
 EndSplineSet
+Validated: 1
 Kerns2: 231 -210 "'kern' Horizontal Kerning in Latin lookup 0-1" 235 -307 "'kern' Horizontal Kerning in Latin lookup 0-1" 237 -214 "'kern' Horizontal Kerning in Latin lookup 0-1" 239 -285 "'kern' Horizontal Kerning in Latin lookup 0-1" 240 -221 "'kern' Horizontal Kerning in Latin lookup 0-1" 241 -193 "'kern' Horizontal Kerning in Latin lookup 0-1" 242 -287 "'kern' Horizontal Kerning in Latin lookup 0-1" 245 -227 "'kern' Horizontal Kerning in Latin lookup 0-1" 247 -197 "'kern' Horizontal Kerning in Latin lookup 0-1" 249 -230 "'kern' Horizontal Kerning in Latin lookup 0-1" 253 -564 "'kern' Horizontal Kerning in Latin lookup 0-1" 254 -366 "'kern' Horizontal Kerning in Latin lookup 0-1" 255 -274 "'kern' Horizontal Kerning in Latin lookup 0-1" 178 -470 "'kern' Horizontal Kerning in Latin lookup 0-1" 236 -92 "'kern' Horizontal Kerning in Latin lookup 0-1" 238 -145 "'kern' Horizontal Kerning in Latin lookup 0-1" 243 -285 "'kern' Horizontal Kerning in Latin lookup 0-1" 248 -292 "'kern' Horizontal Kerning in Latin lookup 0-1" 250 -190 "'kern' Horizontal Kerning in Latin lookup 0-1" 251 -369 "'kern' Horizontal Kerning in Latin lookup 0-1" 252 -364 "'kern' Horizontal Kerning in Latin lookup 0-1" 177 -105 "'kern' Horizontal Kerning in Latin lookup 0-1" 192 -105 "'kern' Horizontal Kerning in Latin lookup 0-1"
 EndChar
 
