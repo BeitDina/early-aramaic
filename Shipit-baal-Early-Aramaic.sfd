@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1244295734
-ModificationTime: 1786124009
+ModificationTime: 1787463767
 PfmFamily: 17
 TTFWeight: 600
 TTFWidth: 5
@@ -2307,8 +2307,7 @@ MacName: 0 0 7 "Cursive"
 MacName: 0 1 20 "Pleinement connectes"
 MacName: 0 4 7 "Cursief"
 EndMacFeatures
-LangName: 1037 "" "" "" "" "" "0.103yg" "" "" "" "" "" "" "" "Copyright (c) 2009, Yoram Gnat (<yoram.gnat@gmail.com>),+AAoA-with Reserved Font Name Keter YG. This Font Software is licensed under the GNU Public License Version 2. The license available at: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html.+AAoA-The following license applies to the OpenType Layout logic for Biblical Hebrew as jointly developed by Ralph Hancock and John Hudson. It does not apply to any other aspects of the font software, including outlines, hint instructions or other intellectual property:+AAoA-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:+AAoA-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.+AAoA-THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.+AAoA" "http://www.gnu.org/licenses/old-licenses/gpl-2.0.html, +AAoA-http://www.opensource.org/licenses/mit-license.php "
-LangName: 1033 "" "" "" "" "" "0.103yg" "" "" "" "" "" "" "" "Copyright (c) 2009, Yoram Gnat (<yoram.gnat@gmail.com>),+AAoA-with Reserved Font Name Keter YG. This Font Software is licensed under the GNU Public License Version 2. The license available at: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html.+AAoA-The following license applies to the OpenType Layout logic for Biblical Hebrew as jointly developed by Ralph Hancock and John Hudson. It does not apply to any other aspects of the font software, including outlines, hint instructions or other intellectual property:+AAoA-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:+AAoA-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.+AAoA-THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.+AAoA" "http://www.gnu.org/licenses/old-licenses/gpl-2.0.html, +AAoA-http://www.opensource.org/licenses/mit-license.php "
+LangName: 1033 "" "" "" "" "" "0.9" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-Shipit-baal Early Armaic Font (9 Century BCE) Created with FontForge 20230101 at Fri Jul 24 05:03:14 2026+AAoA-by Florin Ciprian Bodin aka orynider @ github.com/beitdina/early-aramaic original based on Cardo with SIL Open Font License, and some portions of font metrics are based on GNU-GPL version and MIT License of Keter Aram Tzova by Yoram Knat who used Hebrew OpenType Layout logic copyright (c) 2003 & 2007, Ralph Hancock & John Hudson. This layout logic for Biblical Hebrew is open source software under the MIT License; for details  contact copyright holders at <license@tiro.com>+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 GaspTable: 3 8 2 16 1 65535 3 0
 Encoding: UnicodeBmp
 Compacted: 1
@@ -2317,7 +2316,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 140 20 9
+WinInfo: 0 20 9
 BeginPrivate: 1
 BlueValues 6 [0 20]
 EndPrivate
@@ -2339,59 +2338,68 @@ BeginChars: 65549 309
 StartChar: .null
 Encoding: 0 -1 0
 AltUni2: 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0
-Width: 1099
+Width: 1303
 GlyphClass: 2
 Flags: HW
-HStem: 0 98<77 970> 1088 106<393 569.728> 1313 99<77 970>
-VStem: -30 107<98 1313> 246 110<984 1018.13> 455 106<582 668> 662 110<844.183 996.992> 970 107<98 1313>
+HStem: 0 98<203 1096> 1088 106<519 695.728> 1313 99<203 1096>
+VStem: 96 107<98 1313> 372 110<984 1018.13> 581 106<582 668> 788 110<844.183 996.992> 1096 107<98 1313>
 LayerCount: 2
 Fore
 SplineSet
-743.241210938 890.516601562 m 0
- 754.7734375 919.2890625 758.928710938 950.000976562 756.373046875 980.0859375 c 0
- 751.952148438 1032.09082031 727.474609375 1082.22167969 686.364257812 1117.21972656 c 1
- 642.640625 1145.98632812 592.889648438 1159.86621094 541.918945312 1163.328125 c 0
- 489.254882812 1166.90527344 435.2890625 1159.359375 385.32421875 1145.61425781 c 0
- 342.09375 1133.42578125 300.568359375 1119.04003906 260.750976562 1102.46289062 c 1
- 207.850585938 1204.85839844 l 1
- 253.35546875 1225.33789062 303.697265625 1242.40429688 358.874023438 1256.05761719 c 0
- 419.528320312 1269.390625 486.74609375 1276.8984375 551.92578125 1274.76953125 c 0
- 635.966796875 1272.02734375 716.6171875 1253.25976562 775.436523438 1210.29882812 c 1
- 839.375976562 1169.05566406 876.892578125 1115.85742188 894.059570312 1058.55957031 c 0
- 915.502929688 986.995117188 905.204101562 909.0390625 875 840 c 1
- 825.21875 754.262695312 746.818359375 693.752929688 644.09765625 668.962890625 c 0
- 605.884765625 658.623046875 554.745117188 655.54296875 526.462890625 635.999023438 c 0
- 512.47265625 623.927734375 513.936523438 609.337890625 519.681640625 594.716796875 c 0
- 525.625976562 564.186523438 545.420898438 528.60546875 556.564453125 498.26171875 c 0
- 569.299804688 463.58203125 564.938476562 438.822265625 565.946289062 403.755859375 c 2
- 565.946289062 378.888671875 l 1
- 397.981445312 373.916015625 l 1
- 393.247070312 406.288085938 402.92578125 451.422851562 394.75 485.603515625 c 0
- 389.509765625 526.578125 354.640625 561.512695312 352.874023438 597.461914062 c 0
- 352.01171875 637.981445312 372.236328125 671.609375 404.810546875 702.965820312 c 1
- 464.66015625 750.909179688 544.056640625 752.092773438 611.068359375 778.701171875 c 0
- 672.28515625 803.337890625 721.889648438 840.46484375 743.241210938 890.516601562 c 0
-371.103515625 240 m 0
- 371.103515625 276.08203125 381.057617188 301.4375 400.966796875 316.065429688 c 0
- 420.875976562 330.694335938 446.188476562 338.008789062 476.905273438 338.008789062 c 0
- 505.346679688 338.008789062 529.805664062 330.694335938 550.284179688 316.065429688 c 0
- 570.76171875 301.4375 581 276.08203125 581 240 c 0
- 581 204.891601562 570.76171875 179.536132812 550.284179688 163.93359375 c 0
- 529.805664062 148.331054688 505.346679688 140.529296875 476.905273438 140.529296875 c 0
- 446.188476562 140.529296875 420.875976562 148.331054688 400.966796875 163.93359375 c 0
- 381.057617188 179.536132812 371.103515625 204.891601562 371.103515625 240 c 0
-968 63 m 1
- 965 1347 l 1
- 80 1353 l 1
- 80 66 l 1
- 968 63 l 1
-1077 1412 m 1
- 1077 0 l 1
- -30 0 l 1
- -30 1412 l 1
- 1077 1412 l 1
+869.241210938 890.516601562 m 0
+ 878.3828125 913.323242188 883 937 883 961 c 0
+ 883 968 883 974 882 980 c 0
+ 878 1032 853 1082 812 1117 c 1
+ 769 1146 719 1160 668 1163 c 0
+ 659 1164 649 1164 640 1164 c 0
+ 596 1164 552 1157 511 1146 c 0
+ 468 1133 427 1119 387 1102 c 1
+ 334 1205 l 1
+ 379 1225 430 1242 485 1256 c 0
+ 540 1268 599 1275 658 1275 c 0
+ 665 1275 671 1275 678 1275 c 0
+ 762 1272 843 1253 901 1210 c 1
+ 965 1169 1003 1116 1020 1059 c 0
+ 1028 1033 1032 1006 1032 979 c 0
+ 1032 932 1020 884 1001 840 c 1
+ 951 754 873 694 770 669 c 0
+ 732 659 681 656 652 636 c 0
+ 638 624 640 609 646 595 c 0
+ 652 564 671 529 683 498 c 0
+ 691 475 692 457 692 436 c 0
+ 692 431 692 425 692 418 c 0
+ 692 414 692 409 692 404 c 2
+ 692 379 l 1
+ 524 374 l 1
+ 523 381 523 389 523 397 c 0
+ 523 414 524 433 524 451 c 0
+ 524 463 523 475 521 486 c 0
+ 516 527 481 562 479 597 c 0
+ 479 598 479 599 479 600 c 0
+ 479 640 499 673 531 703 c 1
+ 591 751 670 752 737 779 c 0
+ 798 803 847.889648438 840.46484375 869.241210938 890.516601562 c 0
+497 240 m 0
+ 497 276 507 301 527 316 c 0
+ 547 331 572 338 603 338 c 0
+ 631 338 656 331 676 316 c 0
+ 697 301 707 276 707 240 c 0
+ 707 205 697 180 676 164 c 0
+ 656 148 631 141 603 141 c 0
+ 572 141 547 148 527 164 c 0
+ 507 180 497 205 497 240 c 0
+1094 63 m 1
+ 1091 1347 l 1
+ 206 1353 l 1
+ 206 66 l 1
+ 1094 63 l 1
+1203 1412 m 1
+ 1203 0 l 1
+ 96 0 l 1
+ 96 1412 l 1
+ 1203 1412 l 1
 EndSplineSet
-Validated: 33
+Validated: 524289
 EndChar
 
 StartChar: space
@@ -4883,7 +4891,7 @@ SplineSet
  431.5 26.5 362.833007812 -105 323.5 -181 c 1
  323.5 -181 l 1
 EndSplineSet
-Validated: 37
+Validated: 1048613
 EndChar
 
 StartChar: qamatsqatan
@@ -5001,6 +5009,7 @@ SplineSet
  335.3828125 609.646484375 430.70703125 576.9453125 524.702148438 541.65625 c 0
  605.5234375 511.313476562 690.262695312 476.05078125 759.825195312 449.866210938 c 1
 EndSplineSet
+Validated: 524321
 LCarets2: 1 27
 MultipleSubs2: "Add hairspace before low marked Qof" alef hairspace
 Substitution2: "'jalt' Wide Letter Alternatives in Hebrew subtable" alef.wide
@@ -5094,6 +5103,7 @@ SplineSet
  225.860351562 790.853515625 l 2
 404.685546875 -13.8740234375 m 1025
 EndSplineSet
+Validated: 524321
 LCarets2: 1 86
 MultipleSubs2: "Add hairspace before low marked Qof" bet hairspace
 EndChar
@@ -5136,6 +5146,7 @@ SplineSet
  305.568359375 641.134765625 315.524414062 505.079101562 313.631835938 366.624023438 c 0
  311.806640625 232.987304688 298.943359375 97.1162109375 279.54296875 -36.4599609375 c 1
 EndSplineSet
+Validated: 8912929
 LCarets2: 1 61
 MultipleSubs2: "Add hairspace before narrowletter subtable subtable" hairspace gimel
 MultipleSubs2: "Add hairspace before low marked Qof" gimel hairspace
@@ -5163,6 +5174,7 @@ SplineSet
  206 145.549804688 l 1
  1001 50 l 1
 EndSplineSet
+Validated: 8912897
 LCarets2: 1 79
 MultipleSubs2: "Add hairspace before low marked Qof" dalet hairspace
 Substitution2: "'jalt' Wide Letter Alternatives in Hebrew subtable" dalet.wide
@@ -5199,6 +5211,7 @@ SplineSet
  926.194335938 112.811523438 924.348632812 55.6162109375 920 0 c 1
  193.856445312 -3.193359375 l 1
 EndSplineSet
+Validated: 524289
 LCarets2: 1 79
 MultipleSubs2: "Add hairspace before low marked Qof" he hairspace
 Substitution2: "'jalt' Wide Letter Alternatives in Hebrew subtable" he.wide
@@ -5268,6 +5281,7 @@ SplineSet
  122 -109 l 1
  125 44 l 1
 EndSplineSet
+Validated: 1048577
 LCarets2: 1 57
 MultipleSubs2: "Add hairspace before narrowletter subtable subtable" hairspace zain
 MultipleSubs2: "Add hairspace before low marked Qof" zain hairspace
@@ -5317,6 +5331,7 @@ SplineSet
  299 767 l 1
  804 808 l 1
 EndSplineSet
+Validated: 8912933
 LCarets2: 1 107
 MultipleSubs2: "Add hairspace before low marked Qof" het hairspace
 EndChar
@@ -5372,6 +5387,7 @@ SplineSet
  468.517578125 1225.49414062 401.355765748 1121.67766172 351.51953125 1003.01660156 c 0
  323.231445312 935.662109375 307.266601562 897.006835938 329 818 c 1
 EndSplineSet
+Validated: 8912929
 LCarets2: 1 88
 MultipleSubs2: "Add hairspace before low marked Qof" tet hairspace
 EndChar
@@ -5511,6 +5527,7 @@ SplineSet
  118 683 110.00390625 826.401367188 95.26171875 931.703125 c 4
  85.6455078125 1000.38769531 80.9443359375 1068.85742188 80.7236328125 1132.46875 c 5
 EndSplineSet
+Validated: 9961509
 LCarets2: 1 25
 MultipleSubs2: "Add hairspace before low marked Qof" finalkaf hairspace
 EndChar
@@ -5549,6 +5566,7 @@ SplineSet
  88.3505859375 1092.82421875 134.387695312 1088.80566406 166.368164062 1089.81640625 c 0
  200.40234375 1090.83105469 223.97265625 1086.79003906 226.228515625 1047.84082031 c 1
 EndSplineSet
+Validated: 524321
 LCarets2: 1 79
 MultipleSubs2: "Add hairspace before low marked Qof" kaf hairspace
 Substitution2: "'jalt' Wide Letter Alternatives in Hebrew subtable" kaf.wide
@@ -5611,6 +5629,7 @@ SplineSet
  303 32 l 1
  460 1372 l 1
 EndSplineSet
+Validated: 8388609
 LCarets2: 1 62
 MultipleSubs2: "Add hairspace before low marked Qof" lamed hairspace
 MultipleSubs2: "Add thispace after Lamed subtable" lamed thinspace
@@ -5674,6 +5693,7 @@ SplineSet
 307.359375 -390.108398438 m 1024
 370 -58 m 1025
 EndSplineSet
+Validated: 1572897
 LCarets2: 1 72
 MultipleSubs2: "Add hairspace before low marked Qof" finalmem hairspace
 Substitution2: "'jalt' Wide Letter Alternatives in Hebrew subtable" finalmem.wide
@@ -5722,6 +5742,7 @@ SplineSet
  561.161132812 342.9765625 539.540039062 345.770507812 521.327148438 352.256835938 c 1
  521.327148438 352.255859375 l 1
 EndSplineSet
+Validated: 524321
 LCarets2: 1 88
 MultipleSubs2: "Add hairspace before low marked Qof" mem hairspace
 EndChar
@@ -5915,6 +5936,7 @@ SplineSet
  723.53515625 332.923828125 691.090820312 262.204101562 655.873046875 194.0546875 c 0
  614.475585938 113.947265625 569.24609375 37.3916015625 522.529296875 -37.58984375 c 0
 EndSplineSet
+Validated: 524321
 LCarets2: 1 59
 MultipleSubs2: "Add hairspace before narrowletter subtable subtable" hairspace nun
 MultipleSubs2: "Add hairspace before low marked Qof" nun hairspace
@@ -6266,6 +6288,7 @@ SplineSet
  10.43359375 1104.71972656 l 1
  198 1104 l 1
 EndSplineSet
+Validated: 8912929
 LCarets2: 1 33
 MultipleSubs2: "Add hairspace before low marked Qof" pe hairspace
 EndChar
@@ -6716,6 +6739,7 @@ SplineSet
  117.435546875 1049.5234375 39.6119628465 965.175065807 80 867 c 0
 404.685546875 -13.8740234375 m 1025
 EndSplineSet
+Validated: 524321
 LCarets2: 1 79
 MultipleSubs2: "Add hairspace before low marked Qof" resh hairspace
 Substitution2: "'jalt' Wide Letter Alternatives in Hebrew subtable" resh.wide
@@ -6799,6 +6823,7 @@ SplineSet
  1102.07617188 141.1484375 1099.24316406 134.6484375 1095.57617188 126.981445312 c 0
  1091.90917969 119.315429688 1087.40722656 115.645507812 1082.07617188 115.481445312 c 2
 EndSplineSet
+Validated: 524321
 LCarets2: 1 114
 MultipleSubs2: "Add hairspace before low marked Qof" shin hairspace
 EndChar
@@ -6870,6 +6895,7 @@ SplineSet
  166 1117 l 1
  422 1121 l 1
 EndSplineSet
+Validated: 8388609
 LCarets2: 1 78
 MultipleSubs2: "Add hairspace before low marked Qof" tav hairspace
 Substitution2: "'jalt' Wide Letter Alternatives in Hebrew subtable" tav.wide
@@ -8231,7 +8257,7 @@ SplineSet
  722.404296875 803.235351562 l 1
 233 -69 m 1041
 EndSplineSet
-Validated: 33
+Validated: 1048609
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" alef.wide hairspace
 EndChar
@@ -8848,6 +8874,7 @@ LayerCount: 2
 Fore
 Refer: 86 1513 N 1 0 0 1 0 0 3
 Refer: 54 1473 N 1 0 0 1 1209 -24 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" shinshindot hairspace
 Ligature2: "'ccmp' Shin composed with shin or sin dot subtable" shin shindot
@@ -8906,6 +8933,7 @@ LayerCount: 2
 Fore
 Refer: 86 1513 N 1 0 0 1 0 0 3
 Refer: 55 1474 N 1 0 0 1 225 3 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" shinsindot hairspace
 Ligature2: "'ccmp' Shin composed with shin or sin dot subtable" shin sindot
@@ -8965,6 +8993,7 @@ Fore
 Refer: 54 1473 N 1 0 0 1 1209 -24 2
 Refer: 49 1468 N 0.813084 0 0 0.808411 775 125.935 2
 Refer: 86 1513 N 1 0 0 1 0 0 3
+Validated: 5
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" shindageshshindot hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" shinshindot dagesh
@@ -9025,6 +9054,7 @@ Fore
 Refer: 55 1474 N 1 0 0 1 225 3 2
 Refer: 49 1468 N 0.813084 0 0 0.808411 775 125.935 2
 Refer: 86 1513 N 1 0 0 1 0 0 3
+Validated: 5
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" shindageshsindot hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" shinsindot dagesh
@@ -9042,6 +9072,7 @@ LayerCount: 2
 Fore
 Refer: 61 1488 N 1 0 0 1 0 0 3
 Refer: 44 1463 N 0.894778 0 0 2.17797 594.309 194.108 2
+Validated: 1
 EndChar
 
 StartChar: alefkamats
@@ -9055,6 +9086,7 @@ LayerCount: 2
 Fore
 Refer: 61 1488 N 1 0 0 1 0 0 3
 Refer: 45 1464 N 1 0 0 1 578 0 2
+Validated: 1
 EndChar
 
 StartChar: alefmapiq
@@ -9110,6 +9142,7 @@ LayerCount: 2
 Fore
 Refer: 61 1488 N 1 0 0 1 0 0 3
 Refer: 49 1468 N 1 0 0 1 579 -443 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" alefmapiq hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" alef dagesh
@@ -9168,6 +9201,7 @@ LayerCount: 2
 Fore
 Refer: 62 1489 N 1 0 0 1 0 0 3
 Refer: 49 1468 N 1 0 0 1 422 0 2
+Validated: 5
 MultipleSubs2: "Add hairspace before low marked Qof" betdagesh hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" bet dagesh
 EndChar
@@ -9226,6 +9260,7 @@ LayerCount: 2
 Fore
 Refer: 63 1490 N 1 0 0 1 0 0 3
 Refer: 49 1468 N 1 0 0 1 149 36 2
+Validated: 5
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before narrowletter subtable subtable" hairspace gimeldagesh
 MultipleSubs2: "Add hairspace before low marked Qof" gimeldagesh hairspace
@@ -9288,6 +9323,7 @@ LayerCount: 2
 Fore
 Refer: 64 1491 N 1 0 0 1 0 0 3
 Refer: 49 1468 N 1 0 0 1 527 -16 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" daleddagesh hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" dalet dagesh
@@ -9346,6 +9382,7 @@ LayerCount: 2
 Fore
 Refer: 65 1492 N 1 0 0 1 72 7 2
 Refer: 49 1468 N 1.5496 0 0 0.936359 338.982 -20.9389 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" hedagesh hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" he dagesh
@@ -9465,6 +9502,7 @@ LayerCount: 2
 Fore
 Refer: 67 1494 N 1 0 0 1 51 0 2
 Refer: 49 1468 N 1 0 0 1 136 33 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before narrowletter subtable subtable" hairspace zaindagesh
 MultipleSubs2: "Add hairspace before low marked Qof" zaindagesh hairspace
@@ -9524,6 +9562,7 @@ LayerCount: 2
 Fore
 Refer: 69 1496 N 1 0 0 1 0 0 3
 Refer: 49 1468 N 0.897196 0 0 0.906542 825 -9.4953 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" tetdagesh hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" tet dagesh
@@ -9643,6 +9682,7 @@ LayerCount: 2
 Fore
 Refer: 71 1498 N 1 0 0 1 0 0 3
 Refer: 49 1468 N 1 0 0 0.981782 121 1.19071 2
+Validated: 5
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" finalkhafdagesh hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" finalkaf dagesh
@@ -9701,6 +9741,7 @@ LayerCount: 2
 Fore
 Refer: 72 1499 N 1 0 0 1 0 0 3
 Refer: 49 1468 N 1 0 0 1 932 -81 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" khafdagesh hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" kaf dagesh
@@ -9759,6 +9800,7 @@ LayerCount: 2
 Fore
 Refer: 73 1500 N 1 0 0 1 -68 8 3
 Refer: 49 1468 N 1 0 0 1 423 410 2
+Validated: 5
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" lameddagesh hairspace
 MultipleSubs2: "Add thispace after Lamed subtable" lameddagesh thinspace
@@ -9818,6 +9860,7 @@ LayerCount: 2
 Fore
 Refer: 75 1502 N 1 0 0 1 0 0 3
 Refer: 49 1468 N 1 0 0 1 199 -10 2
+Validated: 5
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" memdagseh hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" mem dagesh
@@ -9877,6 +9920,7 @@ LayerCount: 2
 Fore
 Refer: 77 1504 N 1 0 0 1 0 0 3
 Refer: 49 1468 N 1 0 0 1 206.889 44 2
+Validated: 5
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before narrowletter subtable subtable" hairspace nundagesh
 MultipleSubs2: "Add hairspace before low marked Qof" nundagesh hairspace
@@ -10054,6 +10098,7 @@ LayerCount: 2
 Fore
 Refer: 81 1508 N 0.962741 0 0 1 13.1936 3 3
 Refer: 49 1468 S 0.955043 0 0 0.358625 912.274 357.88 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" pedagesh hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" pe dagesh
@@ -10233,6 +10278,7 @@ LayerCount: 2
 Fore
 Refer: 85 1512 N 1 0 0 1 0 0 3
 Refer: 49 1468 N 1 0 0 1 788 375 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" reshdagesh hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" resh dagesh
@@ -10291,6 +10337,7 @@ LayerCount: 2
 Fore
 Refer: 86 1513 N 1 0 0 1 0 0 3
 Refer: 49 1468 N 0.813084 0 0 0.808411 775 125.935 2
+Validated: 5
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" shindagesh hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" shin dagesh
@@ -10349,6 +10396,7 @@ LayerCount: 2
 Fore
 Refer: 87 1514 N 1 0 0 1 0 0 3
 Refer: 49 1468 N 1 0 0 1 607 0 2
+Validated: 5
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" tavdagesh hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" tav dagesh
@@ -10466,6 +10514,7 @@ LayerCount: 2
 Fore
 Refer: 62 1489 N 1 0 0 1 0 0 3
 Refer: 52 1471 N 1 0 0 1 452 132 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" betrafe hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" bet rafe
@@ -10524,6 +10573,7 @@ LayerCount: 2
 Fore
 Refer: 72 1499 N 1 0 0 1 0 0 3
 Refer: 52 1471 N 1 0 0 1 457 114 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" khafrafe hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" kaf rafe
@@ -10582,6 +10632,7 @@ LayerCount: 2
 Fore
 Refer: 81 1508 N 1 0 0 1 0 0 3
 Refer: 52 1471 S 0.760465 0 0 0.974836 683.5 109.902 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" perafe hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" pe rafe
@@ -10683,6 +10734,7 @@ LayerCount: 2
 Fore
 Refer: 63 1490 N 1 0 0 1 0 0 3
 Refer: 52 1471 N 0.786047 0 0 0.807582 435 381.195 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before narrowletter subtable subtable" hairspace gimelrafe
 MultipleSubs2: "Add hairspace before low marked Qof" gimelrafe hairspace
@@ -10742,6 +10794,7 @@ LayerCount: 2
 Fore
 Refer: 64 1491 N 1 0 0 1 0 0 3
 Refer: 52 1471 S 1 0 0 1 630 274 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" daletrafe hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" dalet rafe
@@ -10800,6 +10853,7 @@ LayerCount: 2
 Fore
 Refer: 65 1492 N 1 0 0 1 0 0 2
 Refer: 52 1471 N 1 0 0 1 486 114 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" herafe hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" he rafe
@@ -10917,6 +10971,7 @@ LayerCount: 2
 Fore
 Refer: 71 1498 N 1 0 0 1 0 0 3
 Refer: 37 1456 S 1 0 0 1 148 747 2
+Validated: 5
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" finalkafsheva hairspace
 Ligature2: "'ccmp' FinalKaf Compositions subtable" finalkaf sheva
@@ -10975,6 +11030,7 @@ LayerCount: 2
 Fore
 Refer: 71 1498 N 1 0 0 1 0 0 3
 Refer: 45 1464 N 1 0 0 1 247 -1195 2
+Validated: 5
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" finalkafqamats hairspace
 Ligature2: "'ccmp' FinalKaf Compositions subtable" finalkaf qamats
@@ -11033,6 +11089,7 @@ LayerCount: 2
 Fore
 Refer: 73 1500 N 1 0 0 1 138 0 2
 Refer: 46 1465 N 1 0 0 1 36 4 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" lamedholam hairspace
 MultipleSubs2: "Add thispace after Lamed subtable" lamedholam thinspace
@@ -11093,6 +11150,7 @@ Fore
 Refer: 46 1465 N 1.17603 0 0 1 42.1575 4 2
 Refer: 73 1500 N 1 0 0 1 138 0 2
 Refer: 49 1468 N 1.05346 0 0 1 309.37 62 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" lameddageshholam hairspace
 MultipleSubs2: "Add thispace after Lamed subtable" lameddageshholam thinspace
@@ -11152,6 +11210,7 @@ LayerCount: 2
 Fore
 Refer: 87 1514 N 1 0 0 1 0 0 3
 Refer: 52 1471 N 1 0 0 0.938234 594 181.195 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" tavrafe hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" tav rafe
@@ -14025,6 +14084,7 @@ SplineSet
  1142.68066406 68.2275390625 1143.08105469 62.9296875 1142.68261719 57.6669921875 c 0
  1142.34863281 53.2626953125 1141.45507812 48.8818359375 1139.27246094 44.685546875 c 0
 EndSplineSet
+Validated: 8912929
 Kerns2: 231 -102 "'kern' Horizontal Kerning in Latin lookup 0-1" 237 -130 "'kern' Horizontal Kerning in Latin lookup 0-1" 238 -193 "'kern' Horizontal Kerning in Latin lookup 0-1" 239 -181 "'kern' Horizontal Kerning in Latin lookup 0-1" 240 -133 "'kern' Horizontal Kerning in Latin lookup 0-1" 241 -119 "'kern' Horizontal Kerning in Latin lookup 0-1" 249 -140 "'kern' Horizontal Kerning in Latin lookup 0-1" 253 -447 "'kern' Horizontal Kerning in Latin lookup 0-1" 178 -178 "'kern' Horizontal Kerning in Latin lookup 0-1" 230 -262 "'kern' Horizontal Kerning in Latin lookup 0-1" 232 -212 "'kern' Horizontal Kerning in Latin lookup 0-1" 233 -224 "'kern' Horizontal Kerning in Latin lookup 0-1" 234 -216 "'kern' Horizontal Kerning in Latin lookup 0-1" 235 -163 "'kern' Horizontal Kerning in Latin lookup 0-1" 236 -233 "'kern' Horizontal Kerning in Latin lookup 0-1" 242 -125 "'kern' Horizontal Kerning in Latin lookup 0-1" 243 -125 "'kern' Horizontal Kerning in Latin lookup 0-1" 244 -209 "'kern' Horizontal Kerning in Latin lookup 0-1" 245 -156 "'kern' Horizontal Kerning in Latin lookup 0-1" 246 -204 "'kern' Horizontal Kerning in Latin lookup 0-1" 247 -172 "'kern' Horizontal Kerning in Latin lookup 0-1" 248 -179 "'kern' Horizontal Kerning in Latin lookup 0-1" 250 -165 "'kern' Horizontal Kerning in Latin lookup 0-1" 251 -172 "'kern' Horizontal Kerning in Latin lookup 0-1" 252 -167 "'kern' Horizontal Kerning in Latin lookup 0-1" 254 -172 "'kern' Horizontal Kerning in Latin lookup 0-1" 255 -160 "'kern' Horizontal Kerning in Latin lookup 0-1" 179 -275 "'kern' Horizontal Kerning in Latin lookup 0-1" 177 -298 "'kern' Horizontal Kerning in Latin lookup 0-1" 191 -238 "'kern' Horizontal Kerning in Latin lookup 0-1" 192 -236 "'kern' Horizontal Kerning in Latin lookup 0-1"
 EndChar
 
@@ -14138,7 +14198,7 @@ SplineSet
  368.55859375 268.666015625 369.688476562 451.239257812 363.224609375 608.30078125 c 1
  370.919921875 1254.546875 l 2
 EndSplineSet
-Validated: 33
+Validated: 1048609
 Kerns2: 230 -85 "'kern' Horizontal Kerning in Latin lookup 0-1" 232 -127 "'kern' Horizontal Kerning in Latin lookup 0-1" 233 -122 "'kern' Horizontal Kerning in Latin lookup 0-1" 234 -124 "'kern' Horizontal Kerning in Latin lookup 0-1" 236 -173 "'kern' Horizontal Kerning in Latin lookup 0-1" 238 -218 "'kern' Horizontal Kerning in Latin lookup 0-1" 239 -231 "'kern' Horizontal Kerning in Latin lookup 0-1" 242 -166 "'kern' Horizontal Kerning in Latin lookup 0-1" 244 -115 "'kern' Horizontal Kerning in Latin lookup 0-1" 246 -145 "'kern' Horizontal Kerning in Latin lookup 0-1" 248 -231 "'kern' Horizontal Kerning in Latin lookup 0-1" 249 -189 "'kern' Horizontal Kerning in Latin lookup 0-1" 250 -217 "'kern' Horizontal Kerning in Latin lookup 0-1" 253 -499 "'kern' Horizontal Kerning in Latin lookup 0-1" 178 -220 "'kern' Horizontal Kerning in Latin lookup 0-1" 231 -168 "'kern' Horizontal Kerning in Latin lookup 0-1" 235 -188 "'kern' Horizontal Kerning in Latin lookup 0-1" 237 -198 "'kern' Horizontal Kerning in Latin lookup 0-1" 240 -188 "'kern' Horizontal Kerning in Latin lookup 0-1" 241 -185 "'kern' Horizontal Kerning in Latin lookup 0-1" 243 -166 "'kern' Horizontal Kerning in Latin lookup 0-1" 245 -209 "'kern' Horizontal Kerning in Latin lookup 0-1" 247 -222 "'kern' Horizontal Kerning in Latin lookup 0-1" 251 -127 "'kern' Horizontal Kerning in Latin lookup 0-1" 252 -187 "'kern' Horizontal Kerning in Latin lookup 0-1" 254 -125 "'kern' Horizontal Kerning in Latin lookup 0-1" 255 -212 "'kern' Horizontal Kerning in Latin lookup 0-1" 179 -100 "'kern' Horizontal Kerning in Latin lookup 0-1" 177 -178 "'kern' Horizontal Kerning in Latin lookup 0-1" 191 -100 "'kern' Horizontal Kerning in Latin lookup 0-1" 192 -178 "'kern' Horizontal Kerning in Latin lookup 0-1"
 EndChar
 
@@ -14291,6 +14351,7 @@ SplineSet
  1132.43652344 8.66015625 683.823242188 5.7568359375 526.259765625 6.4169921875 c 1
  580.452148438 362.80859375 856.064453125 967.65625 895 1286 c 1
 EndSplineSet
+Validated: 8912929
 Kerns2: 231 -229 "'kern' Horizontal Kerning in Latin lookup 0-1" 235 -402 "'kern' Horizontal Kerning in Latin lookup 0-1" 237 -260 "'kern' Horizontal Kerning in Latin lookup 0-1" 239 -379 "'kern' Horizontal Kerning in Latin lookup 0-1" 240 -273 "'kern' Horizontal Kerning in Latin lookup 0-1" 241 -240 "'kern' Horizontal Kerning in Latin lookup 0-1" 245 -321 "'kern' Horizontal Kerning in Latin lookup 0-1" 247 -255 "'kern' Horizontal Kerning in Latin lookup 0-1" 251 -586 "'kern' Horizontal Kerning in Latin lookup 0-1" 252 -588 "'kern' Horizontal Kerning in Latin lookup 0-1" 253 0 "'kern' Horizontal Kerning in Latin lookup 0-1" 254 -602 "'kern' Horizontal Kerning in Latin lookup 0-1" 255 -108 "'kern' Horizontal Kerning in Latin lookup 0-1" 232 -238 "'kern' Horizontal Kerning in Latin lookup 0-1" 233 -215 "'kern' Horizontal Kerning in Latin lookup 0-1" 234 -229 "'kern' Horizontal Kerning in Latin lookup 0-1" 236 -234 "'kern' Horizontal Kerning in Latin lookup 0-1" 238 -240 "'kern' Horizontal Kerning in Latin lookup 0-1" 242 -323 "'kern' Horizontal Kerning in Latin lookup 0-1" 243 -323 "'kern' Horizontal Kerning in Latin lookup 0-1" 244 -223 "'kern' Horizontal Kerning in Latin lookup 0-1" 246 -319 "'kern' Horizontal Kerning in Latin lookup 0-1" 248 -318 "'kern' Horizontal Kerning in Latin lookup 0-1" 249 -402 "'kern' Horizontal Kerning in Latin lookup 0-1" 250 -305 "'kern' Horizontal Kerning in Latin lookup 0-1" 179 -121 "'kern' Horizontal Kerning in Latin lookup 0-1" 177 -205 "'kern' Horizontal Kerning in Latin lookup 0-1" 191 -121 "'kern' Horizontal Kerning in Latin lookup 0-1" 192 -205 "'kern' Horizontal Kerning in Latin lookup 0-1" 178 -1041 "'kern' Horizontal Kerning in Latin lookup 0-1"
 EndChar
 
@@ -17396,6 +17457,7 @@ SplineSet
  1161.41308594 854.752929688 1162.65625 932.495117188 1162.87402344 1008.72363281 c 0
  1163.05664062 1072.76953125 1164.08007812 1090.66601562 1163.24902344 1152.7734375 c 0
 EndSplineSet
+Validated: 8912929
 EndChar
 
 StartChar: Omega
@@ -17746,6 +17808,7 @@ VStem: 992 450<1755.44 2015.16> 1064 264<-719.25 470.387> 1096 232<94.1067 681.6
 LayerCount: 2
 Fore
 Refer: 282 936 N 1 0 0 1 -32 -48 2
+Validated: 1
 EndChar
 
 StartChar: omega

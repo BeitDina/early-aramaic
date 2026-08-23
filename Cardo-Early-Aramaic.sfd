@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1244295734
-ModificationTime: 1785389748
+ModificationTime: 1787468626
 PfmFamily: 17
 TTFWeight: 600
 TTFWidth: 5
@@ -2306,8 +2306,7 @@ MacName: 0 0 7 "Cursive"
 MacName: 0 1 20 "Pleinement connectes"
 MacName: 0 4 7 "Cursief"
 EndMacFeatures
-LangName: 1037 "" "" "" "" "" "0.103yg" "" "" "" "" "" "" "" "Copyright (c) 2009, Yoram Gnat (<yoram.gnat@gmail.com>),+AAoA-with Reserved Font Name Keter YG. This Font Software is licensed under the GNU Public License Version 2. The license available at: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html.+AAoA-The following license applies to the OpenType Layout logic for Biblical Hebrew as jointly developed by Ralph Hancock and John Hudson. It does not apply to any other aspects of the font software, including outlines, hint instructions or other intellectual property:+AAoA-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:+AAoA-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.+AAoA-THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.+AAoA" "http://www.gnu.org/licenses/old-licenses/gpl-2.0.html, +AAoA-http://www.opensource.org/licenses/mit-license.php "
-LangName: 1033 "" "" "" "" "" "0.103yg" "" "" "" "" "" "" "" "Copyright (c) 2009, Yoram Gnat (<yoram.gnat@gmail.com>),+AAoA-with Reserved Font Name Keter YG. This Font Software is licensed under the GNU Public License Version 2. The license available at: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html.+AAoA-The following license applies to the OpenType Layout logic for Biblical Hebrew as jointly developed by Ralph Hancock and John Hudson. It does not apply to any other aspects of the font software, including outlines, hint instructions or other intellectual property:+AAoA-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:+AAoA-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.+AAoA-THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.+AAoA" "http://www.gnu.org/licenses/old-licenses/gpl-2.0.html, +AAoA-http://www.opensource.org/licenses/mit-license.php "
+LangName: 1033 "" "" "" "" "" "0.9" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-Early Armaic and Early Greek Font (cca. 10-8 Century BCE) Created with FontForge 20230101 at Fri Jul 24 05:03:14 2026+AAoA-by Florin Ciprian Bodin aka orynider @ github.com/beitdina/early-aramaic original based on Cardo with SIL Open Font License, and some portions of font metrics are based on GNU-GPL version and MIT License of Keter Aram Tzova by Yoram Knat who used Hebrew OpenType Layout logic copyright (c) 2003 & 2007, Ralph Hancock & John Hudson. This layout logic for Biblical Hebrew is open source software under the MIT License; for details  contact copyright holders at <license@tiro.co+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 GaspTable: 3 8 2 16 1 65535 3 0
 Encoding: UnicodeBmp
 Compacted: 1
@@ -2316,7 +2315,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 140 20 9
+WinInfo: 0 20 9
 BeginPrivate: 1
 BlueValues 6 [0 20]
 EndPrivate
@@ -2338,58 +2337,68 @@ BeginChars: 65549 309
 StartChar: .null
 Encoding: 0 -1 0
 AltUni2: 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0
-Width: 1099
+Width: 1247
 GlyphClass: 2
 Flags: HW
-HStem: 0 98<77 970> 1088 106<393 569.728> 1313 99<77 970>
-VStem: -30 107<98 1313> 246 110<984 1018.13> 455 106<582 668> 662 110<844.183 996.992> 970 107<98 1313>
+HStem: 0 98<171 1064> 1088 106<487 663.728> 1313 99<171 1064>
+VStem: 64 107<98 1313> 340 110<984 1018.13> 549 106<582 668> 756 110<844.183 996.992> 1064 107<98 1313>
 LayerCount: 2
 Fore
 SplineSet
-743.241210938 890.516601562 m 0
- 754.7734375 919.2890625 758.928710938 950.000976562 756.373046875 980.0859375 c 0
- 751.952148438 1032.09082031 727.474609375 1082.22167969 686.364257812 1117.21972656 c 1
- 642.640625 1145.98632812 592.889648438 1159.86621094 541.918945312 1163.328125 c 0
- 489.254882812 1166.90527344 435.2890625 1159.359375 385.32421875 1145.61425781 c 0
- 342.09375 1133.42578125 300.568359375 1119.04003906 260.750976562 1102.46289062 c 1
- 207.850585938 1204.85839844 l 1
- 253.35546875 1225.33789062 303.697265625 1242.40429688 358.874023438 1256.05761719 c 0
- 419.528320312 1269.390625 486.74609375 1276.8984375 551.92578125 1274.76953125 c 0
- 635.966796875 1272.02734375 716.6171875 1253.25976562 775.436523438 1210.29882812 c 1
- 839.375976562 1169.05566406 876.892578125 1115.85742188 894.059570312 1058.55957031 c 0
- 915.502929688 986.995117188 905.204101562 909.0390625 875 840 c 1
- 825.21875 754.262695312 746.818359375 693.752929688 644.09765625 668.962890625 c 0
- 605.884765625 658.623046875 554.745117188 655.54296875 526.462890625 635.999023438 c 0
- 512.47265625 623.927734375 513.936523438 609.337890625 519.681640625 594.716796875 c 0
- 525.625976562 564.186523438 545.420898438 528.60546875 556.564453125 498.26171875 c 0
- 569.299804688 463.58203125 564.938476562 438.822265625 565.946289062 403.755859375 c 2
- 565.946289062 378.888671875 l 1
- 397.981445312 373.916015625 l 1
- 393.247070312 406.288085938 402.92578125 451.422851562 394.75 485.603515625 c 0
- 389.509765625 526.578125 354.640625 561.512695312 352.874023438 597.461914062 c 0
- 352.01171875 637.981445312 372.236328125 671.609375 404.810546875 702.965820312 c 1
- 464.66015625 750.909179688 544.056640625 752.092773438 611.068359375 778.701171875 c 0
- 672.28515625 803.337890625 721.889648438 840.46484375 743.241210938 890.516601562 c 0
-371.103515625 240 m 0
- 371.103515625 276.08203125 381.057617188 301.4375 400.966796875 316.065429688 c 0
- 420.875976562 330.694335938 446.188476562 338.008789062 476.905273438 338.008789062 c 0
- 505.346679688 338.008789062 529.805664062 330.694335938 550.284179688 316.065429688 c 0
- 570.76171875 301.4375 581 276.08203125 581 240 c 0
- 581 204.891601562 570.76171875 179.536132812 550.284179688 163.93359375 c 0
- 529.805664062 148.331054688 505.346679688 140.529296875 476.905273438 140.529296875 c 0
- 446.188476562 140.529296875 420.875976562 148.331054688 400.966796875 163.93359375 c 0
- 381.057617188 179.536132812 371.103515625 204.891601562 371.103515625 240 c 0
-968 63 m 1
- 965 1347 l 1
- 80 1353 l 1
- 80 66 l 1
- 968 63 l 1
-1077 1412 m 1
- 1077 0 l 1
- -30 0 l 1
- -30 1412 l 1
- 1077 1412 l 1
+819 891 m 0
+ 828 913 833 937 833 961 c 0
+ 833 967 833 974 832 980 c 0
+ 828 1032 803 1082 762 1117 c 1
+ 719 1146 669 1160 618 1163 c 0
+ 609 1164 599 1164 590 1164 c 0
+ 546 1164 502 1157 461 1146 c 0
+ 418 1133 377 1119 337 1102 c 1
+ 284 1205 l 1
+ 329 1225 380 1242 435 1256 c 0
+ 490 1268 549 1275 608 1275 c 2
+ 628 1275 l 2
+ 712 1272 793 1253 851 1210 c 1
+ 915 1169 953 1116 970 1059 c 0
+ 978 1033 982 1006 982 979 c 0
+ 982 932 970 884 951 840 c 1
+ 901 754 823 694 720 669 c 0
+ 682 659 631 656 602 636 c 0
+ 588 624 590 609 596 595 c 0
+ 602 564 621 529 633 498 c 0
+ 641 475 642 457 642 436 c 2
+ 642 418 l 1
+ 642 404 l 1
+ 642 379 l 1
+ 474 374 l 1
+ 473 381 473 389 473 397 c 0
+ 473 414 474 433 474 451 c 0
+ 474 463 473 475 471 486 c 0
+ 466 527 431 562 429 597 c 2
+ 429 600 l 2
+ 429 640 449 673 481 703 c 0
+ 541 751 620 752 687 779 c 0
+ 748 803 798 840 819 891 c 0
+447 240 m 0
+ 447 276 457 301 477 316 c 0
+ 497 331 522 338 553 338 c 0
+ 581 338 606 331 626 316 c 0
+ 647 301 657 276 657 240 c 0
+ 657 205 647 180 626 164 c 0
+ 606 148 581 141 553 141 c 0
+ 522 141 497 148 477 164 c 0
+ 457 180 447 205 447 240 c 0
+1082 108 m 1
+ 1073 1317 l 1
+ 179 1311 l 1
+ 182 99 l 1
+ 1082 108 l 1
+1181 1412 m 1
+ 1181 0 l 1
+ 74 0 l 1
+ 74 1412 l 1
+ 1181 1412 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: space
@@ -3032,6 +3041,7 @@ SplineSet
  112 1647 l 1
  112 1511 l 1
 EndSplineSet
+Validated: 1
 LCarets2: 1 -4
 EndChar
 
@@ -3057,6 +3067,7 @@ SplineSet
  102 1647 l 1
  102 1511 l 1
 EndSplineSet
+Validated: 1
 LCarets2: 1 -30
 EndChar
 
@@ -3096,6 +3107,7 @@ SplineSet
  212 1645 l 1
  236 1511 l 1
 EndSplineSet
+Validated: 524289
 LCarets2: 1 -4
 EndChar
 
@@ -3140,6 +3152,7 @@ SplineSet
  252 1426 280 1473 280 1525 c 0
  280 1577 252 1624 204 1624 c 0
 EndSplineSet
+Validated: 524321
 LCarets2: 1 0
 EndChar
 
@@ -3174,6 +3187,7 @@ SplineSet
  -188 1208 l 1
  -114 1391 l 1
 EndSplineSet
+Validated: 1
 LCarets2: 1 -31
 EndChar
 
@@ -3208,6 +3222,7 @@ SplineSet
  188 1616 l 2
  184.729314947 1605.53380783 192 1562 192 1532 c 0
 EndSplineSet
+Validated: 524321
 LCarets2: 1 -5
 EndChar
 
@@ -3246,6 +3261,7 @@ SplineSet
  46 -596 l 1
  -38 -596 l 17
 EndSplineSet
+Validated: 524321
 MultipleSubs2: "Add hairspace after last low mark subtable" atnahhafukh hairspace
 MultipleSubs2: "Add thinspace before narrow letter subtable" atnahhafukh thinspace
 MultipleSubs2: "Add hairspace before low marked Qof" atnahhafukh hairspace
@@ -3279,6 +3295,7 @@ SplineSet
  134 -133 l 1xa0
  135 -558 l 1xc0
 EndSplineSet
+Validated: 1
 LCarets2: 1 -1
 MultipleSubs2: "Add hairspace after last low mark subtable" munah hairspace
 MultipleSubs2: "Add thinspace before narrow letter subtable" munah thinspace
@@ -3313,6 +3330,7 @@ SplineSet
  30 -348 l 1
  161 -485 l 1
 EndSplineSet
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace after last low mark subtable" mahapakh hairspace
 MultipleSubs2: "Add thinspace before narrow letter subtable" mahapakh thinspace
@@ -3350,6 +3368,7 @@ SplineSet
  -109 -588 l 1
  -103 -464 l 1
 EndSplineSet
+Validated: 524321
 LCarets2: 1 4
 MultipleSubs2: "Add hairspace after last low mark subtable" merkha hairspace
 MultipleSubs2: "Add thinspace before narrow letter subtable" merkha thinspace
@@ -3397,6 +3416,7 @@ SplineSet
  14 -587 l 1
  18 -452 l 1
 EndSplineSet
+Validated: 524325
 LCarets2: 1 4
 MultipleSubs2: "Add hairspace after last low mark subtable" merkhakefula hairspace
 MultipleSubs2: "Add thinspace before narrow letter subtable" merkhakefula thinspace
@@ -3447,6 +3467,7 @@ SplineSet
  121.204101562 -228.26171875 l 1
  58.654296875 -224.993164062 -10.89453125 -226.565429688 -52.962890625 -225.838867188 c 1
 EndSplineSet
+Validated: 524321
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace after last low mark subtable" darga hairspace
 MultipleSubs2: "Add thinspace before narrow letter subtable" darga thinspace
@@ -3479,6 +3500,7 @@ SplineSet
  93 1230 l 1
  3 1230 l 1
 EndSplineSet
+Validated: 524321
 LCarets2: 1 4
 EndChar
 
@@ -3513,6 +3535,7 @@ SplineSet
  -115 1323 -224 1415 -224 1532 c 0
  -224 1646 -117 1758 -11 1758 c 0
 EndSplineSet
+Validated: 1
 LCarets2: 1 31
 EndChar
 
@@ -3551,6 +3574,7 @@ SplineSet
  42 -596 l 1
  -42 -596 l 1
 EndSplineSet
+Validated: 33
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace after last low mark subtable" yerahbenyomo hairspace
 MultipleSubs2: "Add thinspace before narrow letter subtable" yerahbenyomo thinspace
@@ -3580,6 +3604,7 @@ SplineSet
  14 1477 l 1
  161 1343 l 1
 EndSplineSet
+Validated: 1
 LCarets2: 1 -4
 EndChar
 
@@ -3606,6 +3631,7 @@ SplineSet
  137 1716 l 1xa0
  141 1269 l 1xc0
 EndSplineSet
+Validated: 1
 LCarets2: 1 -1
 EndChar
 
@@ -3638,6 +3664,7 @@ SplineSet
  -100 -130 l 1
  0 -130 l 1
 EndSplineSet
+Validated: 524321
 LCarets2: 1 -38
 MultipleSubs2: "Add hairspace after last low mark subtable" dehi hairspace
 MultipleSubs2: "Add thinspace before narrow letter subtable" dehi thinspace
@@ -3675,6 +3702,7 @@ SplineSet
  -76 1445 -90 1447 -96 1447 c 0
  -112 1447 -125 1431 -125 1406 c 0
 EndSplineSet
+Validated: 524321
 LCarets2: 1 38
 EndChar
 
@@ -3704,6 +3732,7 @@ SplineSet
  48 1371 116 1405 116 1476 c 0
  116 1547 48 1605 2 1605 c 0
 EndSplineSet
+Validated: 1
 LCarets2: 1 0
 EndChar
 
@@ -4646,6 +4675,7 @@ SplineSet
  567 809 l 1
  283 803 l 2
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: rafe
@@ -4668,6 +4698,7 @@ SplineSet
  180 1174 l 1
  -123.5 1177 l 2
 EndSplineSet
+Validated: 524289
 LCarets2: 1 0
 EndChar
 
@@ -4859,7 +4890,7 @@ SplineSet
  431.5 26.5 362.833007812 -105 323.5 -181 c 1
  323.5 -181 l 1
 EndSplineSet
-Validated: 37
+Validated: 1048613
 EndChar
 
 StartChar: qamatsqatan
@@ -4940,41 +4971,44 @@ Fore
 SplineSet
 712 1031 m 1
  704 1045 690.333333333 1071 671 1109 c 0
- 651.666666667 1147 637.333333333 1174 628 1190 c 1
+ 651.666666667 1147 637 1174 628 1190 c 1
  729 1242 l 1
- 747.666666667 1220 766.833333333 1189.66666667 786.5 1151 c 0
- 806.166666667 1112.33333333 819.666666667 1087.66666667 827 1077 c 1
+ 748 1220 767 1190 786 1151 c 0
+ 806 1112 820 1088 827 1077 c 1
  1205 1219 l 1
  1205 1096 l 1
  861 965 l 1
- 883.666666667 872.333333333 894.333333333 796.666666667 893 738 c 0
- 891.666666667 664.666666667 882 589 864 511 c 1
+ 882.958830176 876.209947548 893.067995144 803.827123846 893.067995144 746.111028654 c 0
+ 893.067995144 743.374441314 893.045268253 740.670826939 893 738 c 0
+ 892 665 882 589 864 511 c 1
  1200 395 l 1
  1188 263 l 1
  818 393 l 1
- 792 329.666666667 771.5 283.333333333 756.5 254 c 0
- 741.5 224.666666667 722.333333333 197.333333333 699 172 c 1
+ 792 330 772 283 756 254 c 0
+ 742 225 722 197 699 172 c 1
  609 215 l 1
- 635 254.333333333 656 289.333333333 672 320 c 0
- 688 350.666666667 704 388.333333333 720 433 c 1
- 674.666666667 451.666666667 609.333333333 478 524 512 c 0
- 438.666666667 546 365.166666667 575.833333333 303.5 601.5 c 0
- 241.833333333 627.166666667 168.333333333 658.666666667 83 696 c 0
- 29 720 33.6666666667 749 97 783 c 1
- 305.666666667 868.333333333 510.666666667 951 712 1031 c 1
+ 635 254 656 289 672 320 c 0
+ 688 351 704 388 720 433 c 1
+ 675 452 609 478 524 512 c 0
+ 439 546 365 576 304 602 c 0
+ 242 627 168 659 83 696 c 0
+ 58.1915475023 707.025978888 45.8358040596 719.107272102 45.8358040596 732.243879644 c 0
+ 45.8358040596 747.701429972 62.9431945806 764.620136758 97 783 c 1
+ 306 868 511 951 712 1031 c 1
  712 1031 l 1
 768 547 m 1
- 771.333333333 557 774.333333333 567.5 777 578.5 c 0
- 779.666666667 589.5 781.5 599 782.5 607 c 0
- 783.5 615 784.5 625.5 785.5 638.5 c 0
- 786.5 651.5 787 661 787 667 c 0
- 787 673 787.166666667 683.333333333 787.5 698 c 0
- 787.833333333 712.666666667 788 722.333333333 788 727 c 0
- 788.666666667 792.333333333 777.333333333 858.333333333 754 925 c 1
+ 771 557 774 568 777 578 c 0
+ 780 590 782 599 782 607 c 0
+ 784 615 784 626 786 638 c 0
+ 786 652 787 661 787 667 c 0
+ 787 673 787 683 788 698 c 0
+ 788 713 788 722 788 727 c 0
+ 788.038576008 729.507440542 788.057806607 732.016369193 788.057806607 734.526785952 c 0
+ 788.057806607 797.093521209 776.112751808 860.584592559 754 925 c 1
  280 738 l 1
  768 547 l 1
 EndSplineSet
-Validated: 37
+Validated: 524293
 LCarets2: 1 90
 MultipleSubs2: "Add hairspace before low marked Qof" alef hairspace
 Substitution2: "'jalt' Wide Letter Alternatives in Hebrew subtable" alef.wide
@@ -5265,7 +5299,7 @@ SplineSet
  58 -110 l 1
  54 62 l 1
 EndSplineSet
-Validated: 1
+Validated: 1048577
 LCarets2: 1 57
 MultipleSubs2: "Add hairspace before narrowletter subtable subtable" hairspace zain
 MultipleSubs2: "Add hairspace before low marked Qof" zain hairspace
@@ -5524,7 +5558,7 @@ SplineSet
  488.266601562 -60.123046875 l 1
  679.6875 629.553710938 l 1
 EndSplineSet
-Validated: 37
+Validated: 1048613
 LCarets2: 1 67
 MultipleSubs2: "Add hairspace before low marked Qof" finalkaf hairspace
 EndChar
@@ -5733,7 +5767,7 @@ SplineSet
  605.140625 972.779296875 l 1
 211.459960938 -79.240234375 m 1025
 EndSplineSet
-Validated: 33
+Validated: 1048609
 LCarets2: 1 72
 MultipleSubs2: "Add hairspace before low marked Qof" finalmem hairspace
 Substitution2: "'jalt' Wide Letter Alternatives in Hebrew subtable" finalmem.wide
@@ -8357,7 +8391,7 @@ SplineSet
  722.404296875 803.235351562 l 1
 233 -69 m 1041
 EndSplineSet
-Validated: 33
+Validated: 1048609
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" alef.wide hairspace
 EndChar
@@ -10613,6 +10647,7 @@ LayerCount: 2
 Fore
 Refer: 62 1489 N 1 0 0 1 0 0 3
 Refer: 52 1471 N 1 0 0 1 455 132 2
+Validated: 5
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" betrafe hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" bet rafe
@@ -10671,6 +10706,7 @@ LayerCount: 2
 Fore
 Refer: 72 1499 N 1 0 0 1 0 0 3
 Refer: 52 1471 N 1 0 0 1 457 114 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" khafrafe hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" kaf rafe
@@ -10729,6 +10765,7 @@ LayerCount: 2
 Fore
 Refer: 81 1508 N 1 0 0 1 0 0 3
 Refer: 52 1471 N 0.760465 0 0 1 537.5 348 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" perafe hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" pe rafe
@@ -10830,6 +10867,7 @@ LayerCount: 2
 Fore
 Refer: 63 1490 N 1 0 0 1 0 0 3
 Refer: 52 1471 N 0.786047 0 0 0.798611 435 367.431 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before narrowletter subtable subtable" hairspace gimelrafe
 MultipleSubs2: "Add hairspace before low marked Qof" gimelrafe hairspace
@@ -10889,6 +10927,7 @@ LayerCount: 2
 Fore
 Refer: 64 1491 N 1 0 0 1 0 0 3
 Refer: 52 1471 S 1 0 0 1 630 274 2
+Validated: 5
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" daletrafe hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" dalet rafe
@@ -10947,6 +10986,7 @@ LayerCount: 2
 Fore
 Refer: 65 1492 N 1 0 0 1 0 0 2
 Refer: 52 1471 N 1 0 0 1 498 -12 2
+Validated: 5
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" herafe hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" he rafe
@@ -11303,6 +11343,7 @@ LayerCount: 2
 Fore
 Refer: 87 1514 N 1 0 0 1 0 0 3
 Refer: 52 1471 N 1 0 0 1.11475 604 -41.7213 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" tavrafe hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" tav rafe
@@ -12282,6 +12323,7 @@ SplineSet
  194 1230 198 1270 198 1313 c 0
  198 1382 190 1452 181 1523 c 1
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: parenleft
@@ -12448,6 +12490,7 @@ SplineSet
  313 -5 317 43 317 93 c 0
  317 174 308 257 297 340 c 9
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: hyphen
@@ -12464,6 +12507,7 @@ SplineSet
  120 425 l 25
  230 668 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: period
@@ -13253,6 +13297,7 @@ SplineSet
  157 539 l 1
  1027 539 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: greater
@@ -14286,7 +14331,7 @@ SplineSet
  368.55859375 268.666015625 369.688476562 451.239257812 363.224609375 608.30078125 c 1
  370.919921875 1254.546875 l 2
 EndSplineSet
-Validated: 33
+Validated: 1048609
 Kerns2: 230 -85 "'kern' Horizontal Kerning in Latin lookup 0-1" 232 -127 "'kern' Horizontal Kerning in Latin lookup 0-1" 233 -122 "'kern' Horizontal Kerning in Latin lookup 0-1" 234 -124 "'kern' Horizontal Kerning in Latin lookup 0-1" 236 -173 "'kern' Horizontal Kerning in Latin lookup 0-1" 238 -218 "'kern' Horizontal Kerning in Latin lookup 0-1" 239 -231 "'kern' Horizontal Kerning in Latin lookup 0-1" 242 -166 "'kern' Horizontal Kerning in Latin lookup 0-1" 244 -115 "'kern' Horizontal Kerning in Latin lookup 0-1" 246 -145 "'kern' Horizontal Kerning in Latin lookup 0-1" 248 -231 "'kern' Horizontal Kerning in Latin lookup 0-1" 249 -189 "'kern' Horizontal Kerning in Latin lookup 0-1" 250 -217 "'kern' Horizontal Kerning in Latin lookup 0-1" 253 -499 "'kern' Horizontal Kerning in Latin lookup 0-1" 178 -220 "'kern' Horizontal Kerning in Latin lookup 0-1" 231 -168 "'kern' Horizontal Kerning in Latin lookup 0-1" 235 -188 "'kern' Horizontal Kerning in Latin lookup 0-1" 237 -198 "'kern' Horizontal Kerning in Latin lookup 0-1" 240 -188 "'kern' Horizontal Kerning in Latin lookup 0-1" 241 -185 "'kern' Horizontal Kerning in Latin lookup 0-1" 243 -166 "'kern' Horizontal Kerning in Latin lookup 0-1" 245 -209 "'kern' Horizontal Kerning in Latin lookup 0-1" 247 -222 "'kern' Horizontal Kerning in Latin lookup 0-1" 251 -127 "'kern' Horizontal Kerning in Latin lookup 0-1" 252 -187 "'kern' Horizontal Kerning in Latin lookup 0-1" 254 -125 "'kern' Horizontal Kerning in Latin lookup 0-1" 255 -212 "'kern' Horizontal Kerning in Latin lookup 0-1" 179 -100 "'kern' Horizontal Kerning in Latin lookup 0-1" 177 -178 "'kern' Horizontal Kerning in Latin lookup 0-1" 191 -100 "'kern' Horizontal Kerning in Latin lookup 0-1" 192 -178 "'kern' Horizontal Kerning in Latin lookup 0-1"
 EndChar
 
@@ -16156,6 +16201,7 @@ SplineSet
  423 740.5 l 1
  423 740.5 l 1
 EndSplineSet
+Validated: 8912901
 Kerns2: 231 -210 "'kern' Horizontal Kerning in Latin lookup 0-1" 235 -321 "'kern' Horizontal Kerning in Latin lookup 0-1" 237 -209 "'kern' Horizontal Kerning in Latin lookup 0-1" 239 -293 "'kern' Horizontal Kerning in Latin lookup 0-1" 240 -221 "'kern' Horizontal Kerning in Latin lookup 0-1" 241 -198 "'kern' Horizontal Kerning in Latin lookup 0-1" 242 -278 "'kern' Horizontal Kerning in Latin lookup 0-1" 245 -235 "'kern' Horizontal Kerning in Latin lookup 0-1" 247 -192 "'kern' Horizontal Kerning in Latin lookup 0-1" 251 -354 "'kern' Horizontal Kerning in Latin lookup 0-1" 252 -350 "'kern' Horizontal Kerning in Latin lookup 0-1" 253 -517 "'kern' Horizontal Kerning in Latin lookup 0-1" 254 -352 "'kern' Horizontal Kerning in Latin lookup 0-1" 178 -351 "'kern' Horizontal Kerning in Latin lookup 0-1" 236 -127 "'kern' Horizontal Kerning in Latin lookup 0-1" 238 -145 "'kern' Horizontal Kerning in Latin lookup 0-1" 243 -278 "'kern' Horizontal Kerning in Latin lookup 0-1" 246 -96 "'kern' Horizontal Kerning in Latin lookup 0-1" 248 -286 "'kern' Horizontal Kerning in Latin lookup 0-1" 249 -237 "'kern' Horizontal Kerning in Latin lookup 0-1" 250 -190 "'kern' Horizontal Kerning in Latin lookup 0-1" 255 -198 "'kern' Horizontal Kerning in Latin lookup 0-1" 177 -112 "'kern' Horizontal Kerning in Latin lookup 0-1" 192 -112 "'kern' Horizontal Kerning in Latin lookup 0-1"
 EndChar
 
@@ -16229,6 +16275,7 @@ SplineSet
  535 -8 l 1
  535 -8 l 1
 EndSplineSet
+Validated: 524293
 Kerns2: 230 -336 "'kern' Horizontal Kerning in Latin lookup 0-1" 231 -258 "'kern' Horizontal Kerning in Latin lookup 0-1" 232 -158 "'kern' Horizontal Kerning in Latin lookup 0-1" 233 -196 "'kern' Horizontal Kerning in Latin lookup 0-1" 234 -167 "'kern' Horizontal Kerning in Latin lookup 0-1" 236 -148 "'kern' Horizontal Kerning in Latin lookup 0-1" 237 -269 "'kern' Horizontal Kerning in Latin lookup 0-1" 239 0 "'kern' Horizontal Kerning in Latin lookup 0-1" 240 -270 "'kern' Horizontal Kerning in Latin lookup 0-1" 241 -240 "'kern' Horizontal Kerning in Latin lookup 0-1" 244 -184 "'kern' Horizontal Kerning in Latin lookup 0-1" 246 -142 "'kern' Horizontal Kerning in Latin lookup 0-1" 253 -350 "'kern' Horizontal Kerning in Latin lookup 0-1" 255 -82 "'kern' Horizontal Kerning in Latin lookup 0-1" 179 -341 "'kern' Horizontal Kerning in Latin lookup 0-1" 177 -329 "'kern' Horizontal Kerning in Latin lookup 0-1" 192 0 "'kern' Horizontal Kerning in Latin lookup 0-1" 178 -169 "'kern' Horizontal Kerning in Latin lookup 0-1" 238 -96 "'kern' Horizontal Kerning in Latin lookup 0-1" 242 -110 "'kern' Horizontal Kerning in Latin lookup 0-1" 243 -110 "'kern' Horizontal Kerning in Latin lookup 0-1" 248 -89 "'kern' Horizontal Kerning in Latin lookup 0-1" 251 -88 "'kern' Horizontal Kerning in Latin lookup 0-1" 252 -82 "'kern' Horizontal Kerning in Latin lookup 0-1" 254 -85 "'kern' Horizontal Kerning in Latin lookup 0-1"
 EndChar
 
@@ -16338,6 +16385,7 @@ SplineSet
  619 15 l 1
  619 15 l 1
 EndSplineSet
+Validated: 524293
 Kerns2: 230 -362 "'kern' Horizontal Kerning in Latin lookup 0-1" 231 -251 "'kern' Horizontal Kerning in Latin lookup 0-1" 232 -169 "'kern' Horizontal Kerning in Latin lookup 0-1" 233 -209 "'kern' Horizontal Kerning in Latin lookup 0-1" 234 -177 "'kern' Horizontal Kerning in Latin lookup 0-1" 236 -156 "'kern' Horizontal Kerning in Latin lookup 0-1" 237 -262 "'kern' Horizontal Kerning in Latin lookup 0-1" 239 0 "'kern' Horizontal Kerning in Latin lookup 0-1" 240 -264 "'kern' Horizontal Kerning in Latin lookup 0-1" 241 -233 "'kern' Horizontal Kerning in Latin lookup 0-1" 244 -201 "'kern' Horizontal Kerning in Latin lookup 0-1" 246 -152 "'kern' Horizontal Kerning in Latin lookup 0-1" 253 -358 "'kern' Horizontal Kerning in Latin lookup 0-1" 179 -367 "'kern' Horizontal Kerning in Latin lookup 0-1" 177 -348 "'kern' Horizontal Kerning in Latin lookup 0-1" 192 0 "'kern' Horizontal Kerning in Latin lookup 0-1" 178 -184 "'kern' Horizontal Kerning in Latin lookup 0-1" 238 -103 "'kern' Horizontal Kerning in Latin lookup 0-1" 242 -123 "'kern' Horizontal Kerning in Latin lookup 0-1" 243 -123 "'kern' Horizontal Kerning in Latin lookup 0-1" 248 -95 "'kern' Horizontal Kerning in Latin lookup 0-1" 251 -90 "'kern' Horizontal Kerning in Latin lookup 0-1" 252 -86 "'kern' Horizontal Kerning in Latin lookup 0-1" 254 -87 "'kern' Horizontal Kerning in Latin lookup 0-1" 255 -95 "'kern' Horizontal Kerning in Latin lookup 0-1"
 EndChar
 
@@ -16442,6 +16490,7 @@ SplineSet
  660.833007812 903.333007812 668.833007812 910 683.5 910 c 2
  1055.5 910 l 2
 EndSplineSet
+Validated: 524289
 Kerns2: 231 -210 "'kern' Horizontal Kerning in Latin lookup 0-1" 235 -307 "'kern' Horizontal Kerning in Latin lookup 0-1" 237 -214 "'kern' Horizontal Kerning in Latin lookup 0-1" 239 -285 "'kern' Horizontal Kerning in Latin lookup 0-1" 240 -221 "'kern' Horizontal Kerning in Latin lookup 0-1" 241 -193 "'kern' Horizontal Kerning in Latin lookup 0-1" 242 -287 "'kern' Horizontal Kerning in Latin lookup 0-1" 245 -227 "'kern' Horizontal Kerning in Latin lookup 0-1" 247 -197 "'kern' Horizontal Kerning in Latin lookup 0-1" 249 -230 "'kern' Horizontal Kerning in Latin lookup 0-1" 253 -564 "'kern' Horizontal Kerning in Latin lookup 0-1" 254 -366 "'kern' Horizontal Kerning in Latin lookup 0-1" 255 -274 "'kern' Horizontal Kerning in Latin lookup 0-1" 178 -470 "'kern' Horizontal Kerning in Latin lookup 0-1" 236 -92 "'kern' Horizontal Kerning in Latin lookup 0-1" 238 -145 "'kern' Horizontal Kerning in Latin lookup 0-1" 243 -285 "'kern' Horizontal Kerning in Latin lookup 0-1" 248 -292 "'kern' Horizontal Kerning in Latin lookup 0-1" 250 -190 "'kern' Horizontal Kerning in Latin lookup 0-1" 251 -369 "'kern' Horizontal Kerning in Latin lookup 0-1" 252 -364 "'kern' Horizontal Kerning in Latin lookup 0-1" 177 -105 "'kern' Horizontal Kerning in Latin lookup 0-1" 192 -105 "'kern' Horizontal Kerning in Latin lookup 0-1"
 EndChar
 
@@ -16530,6 +16579,7 @@ SplineSet
  503 -401 l 1
  511 -389 l 1
 EndSplineSet
+Validated: 524289
 Kerns2: 230 -417 "'kern' Horizontal Kerning in Latin lookup 0-1" 232 -153 "'kern' Horizontal Kerning in Latin lookup 0-1" 233 -199 "'kern' Horizontal Kerning in Latin lookup 0-1" 234 -162 "'kern' Horizontal Kerning in Latin lookup 0-1" 235 0 "'kern' Horizontal Kerning in Latin lookup 0-1" 236 -144 "'kern' Horizontal Kerning in Latin lookup 0-1" 238 -91 "'kern' Horizontal Kerning in Latin lookup 0-1" 239 0 "'kern' Horizontal Kerning in Latin lookup 0-1" 243 -126 "'kern' Horizontal Kerning in Latin lookup 0-1" 244 -187 "'kern' Horizontal Kerning in Latin lookup 0-1" 246 -138 "'kern' Horizontal Kerning in Latin lookup 0-1" 247 0 "'kern' Horizontal Kerning in Latin lookup 0-1" 248 -82 "'kern' Horizontal Kerning in Latin lookup 0-1" 253 -343 "'kern' Horizontal Kerning in Latin lookup 0-1" 255 -81 "'kern' Horizontal Kerning in Latin lookup 0-1" 179 -779 "'kern' Horizontal Kerning in Latin lookup 0-1" 177 -752 "'kern' Horizontal Kerning in Latin lookup 0-1" 192 0 "'kern' Horizontal Kerning in Latin lookup 0-1" 178 -170 "'kern' Horizontal Kerning in Latin lookup 0-1" 231 -256 "'kern' Horizontal Kerning in Latin lookup 0-1" 237 -267 "'kern' Horizontal Kerning in Latin lookup 0-1" 240 -268 "'kern' Horizontal Kerning in Latin lookup 0-1" 241 -238 "'kern' Horizontal Kerning in Latin lookup 0-1" 242 -125 "'kern' Horizontal Kerning in Latin lookup 0-1" 251 -82 "'kern' Horizontal Kerning in Latin lookup 0-1" 254 -81 "'kern' Horizontal Kerning in Latin lookup 0-1"
 EndChar
 
@@ -16599,6 +16649,7 @@ SplineSet
  467 20 l 2
  452.333007812 20 445 26.6669921875 445 40 c 0
 EndSplineSet
+Validated: 8912897
 Kerns2: 231 -224 "'kern' Horizontal Kerning in Latin lookup 0-1" 235 -253 "'kern' Horizontal Kerning in Latin lookup 0-1" 237 -233 "'kern' Horizontal Kerning in Latin lookup 0-1" 239 -307 "'kern' Horizontal Kerning in Latin lookup 0-1" 240 -236 "'kern' Horizontal Kerning in Latin lookup 0-1" 241 -206 "'kern' Horizontal Kerning in Latin lookup 0-1" 245 -249 "'kern' Horizontal Kerning in Latin lookup 0-1" 247 -215 "'kern' Horizontal Kerning in Latin lookup 0-1" 251 0 "'kern' Horizontal Kerning in Latin lookup 0-1" 252 0 "'kern' Horizontal Kerning in Latin lookup 0-1" 253 -493 "'kern' Horizontal Kerning in Latin lookup 0-1" 254 0 "'kern' Horizontal Kerning in Latin lookup 0-1" 255 -352 "'kern' Horizontal Kerning in Latin lookup 0-1" 230 -88 "'kern' Horizontal Kerning in Latin lookup 0-1" 236 -95 "'kern' Horizontal Kerning in Latin lookup 0-1" 238 -172 "'kern' Horizontal Kerning in Latin lookup 0-1" 242 -300 "'kern' Horizontal Kerning in Latin lookup 0-1" 243 -300 "'kern' Horizontal Kerning in Latin lookup 0-1" 248 -303 "'kern' Horizontal Kerning in Latin lookup 0-1" 249 -244 "'kern' Horizontal Kerning in Latin lookup 0-1" 250 -204 "'kern' Horizontal Kerning in Latin lookup 0-1" 179 -95 "'kern' Horizontal Kerning in Latin lookup 0-1" 177 -119 "'kern' Horizontal Kerning in Latin lookup 0-1" 191 -95 "'kern' Horizontal Kerning in Latin lookup 0-1" 192 -119 "'kern' Horizontal Kerning in Latin lookup 0-1" 178 -617 "'kern' Horizontal Kerning in Latin lookup 0-1"
 EndChar
 
@@ -16735,6 +16786,7 @@ SplineSet
  850.833007812 1221.5 854 1249.33300781 854 1282 c 1
  972 1282 l 1
 EndSplineSet
+Validated: 8912897
 EndChar
 
 StartChar: Alpha

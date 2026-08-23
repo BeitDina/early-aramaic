@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1244295734
-ModificationTime: 1787029982
+ModificationTime: 1787468205
 PfmFamily: 17
 TTFWeight: 600
 TTFWidth: 5
@@ -2307,8 +2307,7 @@ MacName: 0 0 7 "Cursive"
 MacName: 0 1 20 "Pleinement connectes"
 MacName: 0 4 7 "Cursief"
 EndMacFeatures
-LangName: 1037 "" "" "" "" "" "0.103yg" "" "" "" "" "" "" "" "Copyright (c) 2009, Yoram Gnat (<yoram.gnat@gmail.com>),+AAoA-with Reserved Font Name Keter YG. This Font Software is licensed under the GNU Public License Version 2. The license available at: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html.+AAoA-The following license applies to the OpenType Layout logic for Biblical Hebrew as jointly developed by Ralph Hancock and John Hudson. It does not apply to any other aspects of the font software, including outlines, hint instructions or other intellectual property:+AAoA-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:+AAoA-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.+AAoA-THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.+AAoA" "http://www.gnu.org/licenses/old-licenses/gpl-2.0.html, +AAoA-http://www.opensource.org/licenses/mit-license.php "
-LangName: 1033 "" "" "" "" "" "0.103yg" "" "" "" "" "" "" "" "Copyright (c) 2009, Yoram Gnat (<yoram.gnat@gmail.com>),+AAoA-with Reserved Font Name Keter YG. This Font Software is licensed under the GNU Public License Version 2. The license available at: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html.+AAoA-The following license applies to the OpenType Layout logic for Biblical Hebrew as jointly developed by Ralph Hancock and John Hudson. It does not apply to any other aspects of the font software, including outlines, hint instructions or other intellectual property:+AAoA-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:+AAoA-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.+AAoA-THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.+AAoA" "http://www.gnu.org/licenses/old-licenses/gpl-2.0.html, +AAoA-http://www.opensource.org/licenses/mit-license.php "
+LangName: 1033 "" "" "" "" "" "0.9" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-Bar-Rakib Early Armaic alphabet Font (cca. 8 Century BCE) Created with FontForge 20230101 at Fri Jul 24 05:03:14 2026+AAoA-by Florin Ciprian Bodin aka orynider @ github.com/beitdina/early-aramaic original based on Cardo with SIL Open Font License, and some portions of font metrics are based on GNU-GPL version and MIT License of Keter Aram Tzova by Yoram Knat who used Hebrew OpenType Layout logic copyright (c) 2003 & 2007, Ralph Hancock & John Hudson. This layout logic for Biblical Hebrew is open source software under the MIT License; for details  contact copyright holders at <license@tiro.com>+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 GaspTable: 1 65535 2 0
 Encoding: UnicodeBmp
 Compacted: 1
@@ -2339,59 +2338,68 @@ BeginChars: 65549 309
 StartChar: .null
 Encoding: 0 -1 0
 AltUni2: 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0 000000.ffffffff.0
-Width: 1099
+Width: 1259
 GlyphClass: 2
 Flags: HW
-HStem: 0 98<77 970> 1088 106<393 569.728> 1313 99<77 970>
-VStem: -30 107<98 1313> 246 110<984 1018.13> 455 106<582 668> 662 110<844.183 996.992> 970 107<98 1313>
+HStem: 0 98<180 1073> 1088 106<496 672.728> 1313 99<180 1073>
+VStem: 73 107<98 1313> 349 110<984 1018.13> 558 106<582 668> 765 110<844.183 996.992> 1073 107<98 1313>
 LayerCount: 2
 Fore
 SplineSet
-743.241210938 890.516601562 m 0
- 754.7734375 919.2890625 758.928710938 950.000976562 756.373046875 980.0859375 c 0
- 751.952148438 1032.09082031 727.474609375 1082.22167969 686.364257812 1117.21972656 c 1
- 642.640625 1145.98632812 592.889648438 1159.86621094 541.918945312 1163.328125 c 0
- 489.254882812 1166.90527344 435.2890625 1159.359375 385.32421875 1145.61425781 c 0
- 342.09375 1133.42578125 300.568359375 1119.04003906 260.750976562 1102.46289062 c 1
- 207.850585938 1204.85839844 l 1
- 253.35546875 1225.33789062 303.697265625 1242.40429688 358.874023438 1256.05761719 c 0
- 419.528320312 1269.390625 486.74609375 1276.8984375 551.92578125 1274.76953125 c 0
- 635.966796875 1272.02734375 716.6171875 1253.25976562 775.436523438 1210.29882812 c 1
- 839.375976562 1169.05566406 876.892578125 1115.85742188 894.059570312 1058.55957031 c 0
- 915.502929688 986.995117188 905.204101562 909.0390625 875 840 c 1
- 825.21875 754.262695312 746.818359375 693.752929688 644.09765625 668.962890625 c 0
- 605.884765625 658.623046875 554.745117188 655.54296875 526.462890625 635.999023438 c 0
- 512.47265625 623.927734375 513.936523438 609.337890625 519.681640625 594.716796875 c 0
- 525.625976562 564.186523438 545.420898438 528.60546875 556.564453125 498.26171875 c 0
- 569.299804688 463.58203125 564.938476562 438.822265625 565.946289062 403.755859375 c 2
- 565.946289062 378.888671875 l 1
- 397.981445312 373.916015625 l 1
- 393.247070312 406.288085938 402.92578125 451.422851562 394.75 485.603515625 c 0
- 389.509765625 526.578125 354.640625 561.512695312 352.874023438 597.461914062 c 0
- 352.01171875 637.981445312 372.236328125 671.609375 404.810546875 702.965820312 c 1
- 464.66015625 750.909179688 544.056640625 752.092773438 611.068359375 778.701171875 c 0
- 672.28515625 803.337890625 721.889648438 840.46484375 743.241210938 890.516601562 c 0
-371.103515625 240 m 0
- 371.103515625 276.08203125 381.057617188 301.4375 400.966796875 316.065429688 c 0
- 420.875976562 330.694335938 446.188476562 338.008789062 476.905273438 338.008789062 c 0
- 505.346679688 338.008789062 529.805664062 330.694335938 550.284179688 316.065429688 c 0
- 570.76171875 301.4375 581 276.08203125 581 240 c 0
- 581 204.891601562 570.76171875 179.536132812 550.284179688 163.93359375 c 0
- 529.805664062 148.331054688 505.346679688 140.529296875 476.905273438 140.529296875 c 0
- 446.188476562 140.529296875 420.875976562 148.331054688 400.966796875 163.93359375 c 0
- 381.057617188 179.536132812 371.103515625 204.891601562 371.103515625 240 c 0
-968 63 m 1
- 965 1347 l 1
- 80 1353 l 1
- 80 66 l 1
- 968 63 l 1
-1077 1412 m 1
- 1077 0 l 1
- -30 0 l 1
- -30 1412 l 1
- 1077 1412 l 1
+819 891 m 0
+ 828 913 833 937 833 961 c 0
+ 833 967 833 974 832 980 c 0
+ 828 1032 803 1082 762 1117 c 1
+ 719 1146 669 1160 618 1163 c 0
+ 609 1164 599 1164 590 1164 c 0
+ 546 1164 502 1157 461 1146 c 0
+ 418 1133 377 1119 337 1102 c 1
+ 284 1205 l 1
+ 329 1225 380 1242 435 1256 c 0
+ 490 1268 549 1275 608 1275 c 2
+ 628 1275 l 2
+ 712 1272 793 1253 851 1210 c 1
+ 915 1169 953 1116 970 1059 c 0
+ 978 1033 982 1006 982 979 c 0
+ 982 932 970 884 951 840 c 1
+ 901 754 823 694 720 669 c 0
+ 682 659 631 656 602 636 c 0
+ 588 624 590 609 596 595 c 0
+ 602 564 621 529 633 498 c 0
+ 641 475 642 457 642 436 c 2
+ 642 418 l 1
+ 642 404 l 1
+ 642 379 l 1
+ 474 374 l 1
+ 473 381 473 389 473 397 c 0
+ 473 414 474 433 474 451 c 0
+ 474 463 473 475 471 486 c 0
+ 466 527 431 562 429 597 c 2
+ 429 600 l 2
+ 429 640 449 673 481 703 c 0
+ 541 751 620 752 687 779 c 0
+ 748 803 798 840 819 891 c 0
+447 240 m 0
+ 447 276 457 301 477 316 c 0
+ 497 331 522 338 553 338 c 0
+ 581 338 606 331 626 316 c 0
+ 647 301 657 276 657 240 c 0
+ 657 205 647 180 626 164 c 0
+ 606 148 581 141 553 141 c 0
+ 522 141 497 148 477 164 c 0
+ 457 180 447 205 447 240 c 0
+1082 108 m 1
+ 1073 1317 l 1
+ 179 1311 l 1
+ 182 99 l 1
+ 1082 108 l 1
+1181 1412 m 1
+ 1181 0 l 1
+ 74 0 l 1
+ 74 1412 l 1
+ 1181 1412 l 1
 EndSplineSet
-Validated: 33
+Validated: 1
 EndChar
 
 StartChar: space
@@ -4668,7 +4676,7 @@ SplineSet
  541 854 l 1
  313 848 l 2
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: rafe
@@ -4987,7 +4995,7 @@ SplineSet
  783 271 l 1
  647 659 l 1
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 1 27
 MultipleSubs2: "Add hairspace before low marked Qof" alef hairspace
 Substitution2: "'jalt' Wide Letter Alternatives in Hebrew subtable" alef.wide
@@ -5064,7 +5072,7 @@ SplineSet
  545.671875 -176.190429688 504.505859375 -174.8828125 488.504882812 -175.5234375 c 0
  471.837890625 -176.190429688 489.4453125 -172.922851562 479.8515625 -168.02734375 c 0
 EndSplineSet
-Validated: 8912929
+Validated: 33
 LCarets2: 1 61
 MultipleSubs2: "Add hairspace before narrowletter subtable subtable" hairspace gimel
 MultipleSubs2: "Add hairspace before low marked Qof" gimel hairspace
@@ -5103,7 +5111,7 @@ SplineSet
  567.826171875 644.1171875 772.81640625 644.926757812 990.861328125 646.491210938 c 0
  1001.57519531 646.568359375 1012.30664062 646.661132812 1023.05761719 646.76953125 c 1
 EndSplineSet
-Validated: 8912929
+Validated: 33
 LCarets2: 1 79
 MultipleSubs2: "Add hairspace before low marked Qof" dalet hairspace
 Substitution2: "'jalt' Wide Letter Alternatives in Hebrew subtable" dalet.wide
@@ -5185,7 +5193,7 @@ SplineSet
  617 265 588 109 500 -83 c 0
  477.331532972 -132.458473517 424 -131 321.262695312 -153.305664062 c 1
 EndSplineSet
-Validated: 9961505
+Validated: 1048609
 LCarets2: 1 61
 MultipleSubs2: "Add hairspace before narrowletter subtable subtable" hairspace vav
 MultipleSubs2: "Add hairspace before low marked Qof" vav hairspace
@@ -5222,7 +5230,7 @@ SplineSet
  94.490234375 136.814453125 l 1
  106.1171875 271.3046875 l 1
 EndSplineSet
-Validated: 1572865
+Validated: 1048577
 LCarets2: 1 57
 MultipleSubs2: "Add hairspace before narrowletter subtable subtable" hairspace zain
 MultipleSubs2: "Add hairspace before low marked Qof" zain hairspace
@@ -5270,7 +5278,7 @@ SplineSet
  291.6015625 1333.60253906 l 1
  299 1273 301.818529629 1169.64551671 304 1127.88183594 c 0
 EndSplineSet
-Validated: 8912933
+Validated: 37
 LCarets2: 1 36
 MultipleSubs2: "Add hairspace before low marked Qof" het hairspace
 EndChar
@@ -5317,7 +5325,7 @@ SplineSet
  799.838867188 803.630859375 797.08203125 859.373046875 797.299804688 935.6015625 c 0
  797.482421875 999.647460938 798.33203125 932.6640625 797.500976562 994.771484375 c 0
 EndSplineSet
-Validated: 8912929
+Validated: 33
 LCarets2: 1 88
 MultipleSubs2: "Add hairspace before low marked Qof" tet hairspace
 EndChar
@@ -5393,7 +5401,7 @@ SplineSet
  674 385 l 1
  674 253 l 1
 EndSplineSet
-Validated: 8912897
+Validated: 1
 LCarets2: 1 52
 MultipleSubs2: "Add hairspace before narrowletter subtable subtable" hairspace yod
 MultipleSubs2: "Add hairspace before low marked Qof" yod hairspace
@@ -5424,7 +5432,7 @@ SplineSet
  164 1300 l 5
  384 1296 l 5
 EndSplineSet
-Validated: 8388641
+Validated: 33
 LCarets2: 1 67
 MultipleSubs2: "Add hairspace before low marked Qof" finalkaf hairspace
 EndChar
@@ -5454,7 +5462,7 @@ SplineSet
  202 1128 l 1
  422 1132 l 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 1 79
 MultipleSubs2: "Add hairspace before low marked Qof" kaf hairspace
 Substitution2: "'jalt' Wide Letter Alternatives in Hebrew subtable" kaf.wide
@@ -5537,7 +5545,7 @@ SplineSet
  647 346 648.05078125 183.897460938 677.393554688 74.064453125 c 0
  701.368164062 -10.3125 738.256835938 -61.4560546875 845.192382812 -56.8486328125 c 0
 EndSplineSet
-Validated: 8912929
+Validated: 33
 LCarets2: 1 134
 MultipleSubs2: "Add hairspace before low marked Qof" lamed hairspace
 MultipleSubs2: "Add thispace after Lamed subtable" lamed thinspace
@@ -5693,7 +5701,7 @@ SplineSet
  637.146484375 772.45703125 558.224609375 723.990234375 534.03515625 693.922851562 c 1
  601.55859375 741.991210938 740.03125 780.219726562 807.959960938 792.55078125 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 1 88
 MultipleSubs2: "Add hairspace before low marked Qof" mem hairspace
 EndChar
@@ -5787,7 +5795,7 @@ SplineSet
  627 514 l 1
 323.81640625 -291.963867188 m 1025
 EndSplineSet
-Validated: 8912933
+Validated: 37
 LCarets2: 1 72
 MultipleSubs2: "Add hairspace before narrowletter subtable subtable" hairspace finalnun
 MultipleSubs2: "Add hairspace before low marked Qof" finalnun hairspace
@@ -5877,7 +5885,7 @@ SplineSet
  518.76953125 2.986328125 486.2109375 34.8447265625 476.452148438 94.3525390625 c 0
  460.294921875 214.314453125 488.142578125 350.895507812 497.51171875 448.751953125 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 1 59
 MultipleSubs2: "Add hairspace before narrowletter subtable subtable" hairspace nun
 MultipleSubs2: "Add hairspace before low marked Qof" nun hairspace
@@ -5965,7 +5973,7 @@ SplineSet
  589.994140625 -179.927734375 538.419921875 -197.138671875 474.033203125 -199.67578125 c 1
  474.033203125 -199.67578125 l 1
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 1 92
 MultipleSubs2: "Add hairspace before low marked Qof" samekh hairspace
 EndChar
@@ -6143,7 +6151,7 @@ SplineSet
  508.96484375 1263.41699219 537.149414062 1285.00195312 579.534179688 1272.69042969 c 1
  579.53515625 1272.69042969 l 1
 EndSplineSet
-Validated: 8912929
+Validated: 33
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" finalpe hairspace
 EndChar
@@ -6219,7 +6227,7 @@ SplineSet
  751.668974974 805.163145636 765.764648438 918.197265625 721.849609375 1015.89257812 c 5
  721.850585938 1015.890625 l 5
 EndSplineSet
-Validated: 8912929
+Validated: 33
 LCarets2: 1 100
 MultipleSubs2: "Add hairspace before low marked Qof" pe hairspace
 EndChar
@@ -6535,7 +6543,7 @@ SplineSet
  270.44140625 1382.22363281 326.946289062 1413.6015625 371.198242188 1413.6015625 c 0
  392.983398438 1413.6015625 403.875976562 1404.44921875 403.875976562 1386.14648438 c 0
 EndSplineSet
-Validated: 8912929
+Validated: 33
 LCarets2: 1 44
 MultipleSubs2: "Add hairspace before low marked Qof" kof hairspace
 EndChar
@@ -6708,7 +6716,7 @@ SplineSet
  440.705078125 77.119140625 l 1
  354.94140625 76.431640625 l 1
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 1 114
 MultipleSubs2: "Add hairspace before low marked Qof" shin hairspace
 EndChar
@@ -8145,7 +8153,7 @@ SplineSet
  688.4453125 900.6796875 l 1
 233 -69 m 1041
 EndSplineSet
-Validated: 1572897
+Validated: 1048609
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" alef.wide hairspace
 EndChar
@@ -8227,7 +8235,7 @@ SplineSet
  550.223632812 516.434570312 755.213867188 517.244140625 973.258789062 518.80859375 c 0
  983.97265625 518.885742188 994.704101562 518.978515625 1005.45507812 519.086914062 c 1
 EndSplineSet
-Validated: 8912929
+Validated: 33
 LCarets2: 1 -82
 MultipleSubs2: "Add hairspace before low marked Qof" dalet.wide hairspace
 EndChar
@@ -17357,7 +17365,7 @@ SplineSet
  1152.28710938 857.741210938 1153.53027344 935.483398438 1153.74804688 1011.71191406 c 0
  1153.93066406 1075.7578125 1157.21484375 1008.85449219 1153.94921875 1070.88183594 c 0
 EndSplineSet
-Validated: 8912929
+Validated: 33
 EndChar
 
 StartChar: Omega
